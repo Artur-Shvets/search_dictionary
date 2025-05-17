@@ -1,0 +1,2237 @@
+[
+  {
+    "term": "Ївга",
+    "forms": [
+      "Ївга noun:anim:f:v_naz:prop:fname",
+      "  Ївги noun:anim:f:v_rod:prop:fname",
+      "  Ївзі noun:anim:f:v_dav:prop:fname",
+      "  Ївгу noun:anim:f:v_zna:prop:fname",
+      "  Ївгою noun:anim:f:v_oru:prop:fname",
+      "  Ївзі noun:anim:f:v_mis:prop:fname",
+      "  Ївго noun:anim:f:v_kly:prop:fname"
+    ]
+  },
+  {
+    "term": "Ївженки",
+    "forms": [
+      "Ївженки noun:inanim:p:v_naz:ns:prop:geo",
+      "  Ївженків noun:inanim:p:v_rod:ns:prop:geo",
+      "  Ївженкам noun:inanim:p:v_dav:ns:prop:geo",
+      "  Ївженки noun:inanim:p:v_zna:ns:prop:geo",
+      "  Ївженками noun:inanim:p:v_oru:ns:prop:geo",
+      "  Ївженках noun:inanim:p:v_mis:ns:prop:geo",
+      "  Ївженки noun:inanim:p:v_kly:ns:prop:geo"
+    ]
+  },
+  {
+    "term": "Ївжин",
+    "forms": [
+      "Ївжин adj:m:v_naz",
+      "  Ївжиного adj:m:v_rod",
+      "  Ївжиному adj:m:v_dav",
+      "  Ївжиного adj:m:v_zna:ranim",
+      "  Ївжин adj:m:v_zna:rinanim",
+      "  Ївжиним adj:m:v_oru",
+      "  Ївжинім adj:m:v_mis",
+      "  Ївжиному adj:m:v_mis",
+      "  Ївжин adj:m:v_kly",
+      "  Ївжина adj:f:v_naz",
+      "  Ївжиної adj:f:v_rod",
+      "  Ївжиній adj:f:v_dav",
+      "  Ївжину adj:f:v_zna",
+      "  Ївжиною adj:f:v_oru",
+      "  Ївжиній adj:f:v_mis",
+      "  Ївжина adj:f:v_kly",
+      "  Ївжине adj:n:v_naz",
+      "  Ївжиного adj:n:v_rod",
+      "  Ївжиному adj:n:v_dav",
+      "  Ївжине adj:n:v_zna",
+      "  Ївжиним adj:n:v_oru",
+      "  Ївжинім adj:n:v_mis",
+      "  Ївжиному adj:n:v_mis",
+      "  Ївжине adj:n:v_kly",
+      "  Ївжині adj:p:v_naz",
+      "  Ївжиних adj:p:v_rod",
+      "  Ївжиним adj:p:v_dav",
+      "  Ївжиних adj:p:v_zna:ranim",
+      "  Ївжині adj:p:v_zna:rinanim",
+      "  Ївжиними adj:p:v_oru",
+      "  Ївжиних adj:p:v_mis",
+      "  Ївжині adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "ївши",
+    "forms": [
+      "ївши advp:imperf"
+    ]
+  },
+  {
+    "term": "їда",
+    "forms": [
+      "їда noun:inanim:f:v_naz",
+      "  їди noun:inanim:f:v_rod",
+      "  їді noun:inanim:f:v_dav",
+      "  їду noun:inanim:f:v_zna",
+      "  їдою noun:inanim:f:v_oru",
+      "  їді noun:inanim:f:v_mis",
+      "  їдо noun:inanim:f:v_kly"
+    ]
+  },
+  {
+    "term": "їдак",
+    "forms": [
+      "їдак noun:anim:m:v_naz:arch",
+      "  їдака noun:anim:m:v_rod:arch",
+      "  їдакові noun:anim:m:v_dav:arch",
+      "  їдаку noun:anim:m:v_dav:arch",
+      "  їдака noun:anim:m:v_zna:arch",
+      "  їдаком noun:anim:m:v_oru:arch",
+      "  їдакові noun:anim:m:v_mis:arch",
+      "  їдаку noun:anim:m:v_mis:arch",
+      "  їдаку noun:anim:m:v_kly:arch",
+      "  їдаки noun:anim:p:v_naz:arch",
+      "  їдаків noun:anim:p:v_rod:arch",
+      "  їдакам noun:anim:p:v_dav:arch",
+      "  їдаків noun:anim:p:v_zna:arch",
+      "  їдаки noun:anim:p:v_zna:rare:arch    # з в/у",
+      "  їдаками noun:anim:p:v_oru:arch",
+      "  їдаках noun:anim:p:v_mis:arch",
+      "  їдаки noun:anim:p:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їдаленька",
+    "forms": [
+      "їдаленька noun:inanim:f:v_naz",
+      "  їдаленьки noun:inanim:f:v_rod",
+      "  їдаленьці noun:inanim:f:v_dav",
+      "  їдаленьку noun:inanim:f:v_zna",
+      "  їдаленькою noun:inanim:f:v_oru",
+      "  їдаленьці noun:inanim:f:v_mis",
+      "  їдаленько noun:inanim:f:v_kly",
+      "  їдаленьки noun:inanim:p:v_naz",
+      "  їдаленьок noun:inanim:p:v_rod",
+      "  їдаленькам noun:inanim:p:v_dav",
+      "  їдаленьки noun:inanim:p:v_zna",
+      "  їдаленьками noun:inanim:p:v_oru",
+      "  їдаленьках noun:inanim:p:v_mis",
+      "  їдаленьки noun:inanim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдало",
+    "forms": [
+      "їдало noun:inanim:n:v_naz",
+      "  їдала noun:inanim:n:v_rod",
+      "  їдалу noun:inanim:n:v_dav",
+      "  їдало noun:inanim:n:v_zna",
+      "  їдалом noun:inanim:n:v_oru",
+      "  їдалі noun:inanim:n:v_mis",
+      "  їдалу noun:inanim:n:v_mis",
+      "  їдало noun:inanim:n:v_kly"
+    ]
+  },
+  {
+    "term": "їдальня",
+    "forms": [
+      "їдальня noun:inanim:f:v_naz",
+      "  їдальні noun:inanim:f:v_rod",
+      "  їдальні noun:inanim:f:v_dav",
+      "  їдальню noun:inanim:f:v_zna",
+      "  їдальнею noun:inanim:f:v_oru",
+      "  їдальні noun:inanim:f:v_mis",
+      "  їдальне noun:inanim:f:v_kly",
+      "  їдальні noun:inanim:p:v_naz",
+      "  їдалень noun:inanim:p:v_rod",
+      "  їдальням noun:inanim:p:v_dav",
+      "  їдальні noun:inanim:p:v_zna",
+      "  їдальнями noun:inanim:p:v_oru",
+      "  їдальнях noun:inanim:p:v_mis",
+      "  їдальні noun:inanim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдати",
+    "forms": [
+      "їдати verb:imperf:inf",
+      "  їдать verb:imperf:inf:short",
+      "  їдав verb:imperf:past:m",
+      "  їдала verb:imperf:past:f",
+      "  їдало verb:imperf:past:n",
+      "  їдали verb:imperf:past:p"
+    ]
+  },
+  {
+    "term": "їден",
+    "forms": [
+      "їден adj:m:v_naz:&pron:dem:ind:arch",
+      "  їдного adj:m:v_rod:&pron:dem:ind:arch",
+      "  їдному adj:m:v_dav:&pron:dem:ind:arch",
+      "  їдного adj:m:v_zna:ranim:&pron:dem:ind:arch",
+      "  їден adj:m:v_zna:rinanim:&pron:dem:ind:arch",
+      "  їдним adj:m:v_oru:&pron:dem:ind:arch",
+      "  їднім adj:m:v_mis:&pron:dem:ind:arch",
+      "  їдному adj:m:v_mis:&pron:dem:ind:arch",
+      "  їдна adj:f:v_naz:&pron:dem:ind:arch",
+      "  їднієї adj:f:v_rod:&pron:dem:ind:arch",
+      "  їдної adj:f:v_rod:&pron:dem:ind:arch",
+      "  їдній adj:f:v_dav:&pron:dem:ind:arch",
+      "  їдну adj:f:v_zna:&pron:dem:ind:arch",
+      "  їднією adj:f:v_oru:&pron:dem:ind:arch",
+      "  їдною adj:f:v_oru:&pron:dem:ind:arch",
+      "  їдній adj:f:v_mis:&pron:dem:ind:arch",
+      "  їдне adj:n:v_naz:&pron:dem:ind:arch",
+      "  їдно adj:n:v_naz:&pron:dem:ind:arch",
+      "  їдного adj:n:v_rod:&pron:dem:ind:arch",
+      "  їдному adj:n:v_dav:&pron:dem:ind:arch",
+      "  їдне adj:n:v_zna:&pron:dem:ind:arch",
+      "  їдно adj:n:v_zna:&pron:dem:ind:arch",
+      "  їдним adj:n:v_oru:&pron:dem:ind:arch",
+      "  їднім adj:n:v_mis:&pron:dem:ind:arch",
+      "  їдному adj:n:v_mis:&pron:dem:ind:arch",
+      "  їдні adj:p:v_naz:&pron:dem:ind:arch",
+      "  їдних adj:p:v_rod:&pron:dem:ind:arch",
+      "  їдним adj:p:v_dav:&pron:dem:ind:arch",
+      "  їдних adj:p:v_zna:ranim:&pron:dem:ind:arch",
+      "  їдні adj:p:v_zna:rinanim:&pron:dem:ind:arch",
+      "  їдними adj:p:v_oru:&pron:dem:ind:arch",
+      "  їдних adj:p:v_mis:&pron:dem:ind:arch"
+    ]
+  },
+  {
+    "term": "їдений",
+    "forms": [
+      "їдений adj:m:v_naz:&adjp:pasv:imperf",
+      "  їденого adj:m:v_rod:&adjp:pasv:imperf",
+      "  їденому adj:m:v_dav:&adjp:pasv:imperf",
+      "  їденого adj:m:v_zna:ranim:&adjp:pasv:imperf",
+      "  їдений adj:m:v_zna:rinanim:&adjp:pasv:imperf",
+      "  їденим adj:m:v_oru:&adjp:pasv:imperf",
+      "  їденім adj:m:v_mis:&adjp:pasv:imperf",
+      "  їденому adj:m:v_mis:&adjp:pasv:imperf",
+      "  їдений adj:m:v_kly:&adjp:pasv:imperf",
+      "  їдена adj:f:v_naz:&adjp:pasv:imperf",
+      "  їденої adj:f:v_rod:&adjp:pasv:imperf",
+      "  їденій adj:f:v_dav:&adjp:pasv:imperf",
+      "  їдену adj:f:v_zna:&adjp:pasv:imperf",
+      "  їденою adj:f:v_oru:&adjp:pasv:imperf",
+      "  їденій adj:f:v_mis:&adjp:pasv:imperf",
+      "  їдена adj:f:v_kly:&adjp:pasv:imperf",
+      "  їдене adj:n:v_naz:&adjp:pasv:imperf",
+      "  їденого adj:n:v_rod:&adjp:pasv:imperf",
+      "  їденому adj:n:v_dav:&adjp:pasv:imperf",
+      "  їдене adj:n:v_zna:&adjp:pasv:imperf",
+      "  їденим adj:n:v_oru:&adjp:pasv:imperf",
+      "  їденім adj:n:v_mis:&adjp:pasv:imperf",
+      "  їденому adj:n:v_mis:&adjp:pasv:imperf",
+      "  їдене adj:n:v_kly:&adjp:pasv:imperf",
+      "  їдені adj:p:v_naz:&adjp:pasv:imperf",
+      "  їдених adj:p:v_rod:&adjp:pasv:imperf",
+      "  їденим adj:p:v_dav:&adjp:pasv:imperf",
+      "  їдених adj:p:v_zna:ranim:&adjp:pasv:imperf",
+      "  їдені adj:p:v_zna:rinanim:&adjp:pasv:imperf",
+      "  їденими adj:p:v_oru:&adjp:pasv:imperf",
+      "  їдених adj:p:v_mis:&adjp:pasv:imperf",
+      "  їдені adj:p:v_kly:&adjp:pasv:imperf"
+    ]
+  },
+  {
+    "term": "їдець",
+    "forms": [
+      "їдець noun:anim:m:v_naz",
+      "  їдця noun:anim:m:v_rod",
+      "  їдцеві noun:anim:m:v_dav",
+      "  їдцю noun:anim:m:v_dav",
+      "  їдця noun:anim:m:v_zna",
+      "  їдцем noun:anim:m:v_oru",
+      "  їдцеві noun:anim:m:v_mis",
+      "  їдці noun:anim:m:v_mis",
+      "  їдцю noun:anim:m:v_mis",
+      "  їдцю noun:anim:m:v_kly",
+      "  їдці noun:anim:p:v_naz",
+      "  їдців noun:anim:p:v_rod",
+      "  їдцям noun:anim:p:v_dav",
+      "  їдців noun:anim:p:v_zna",
+      "  їдці noun:anim:p:v_zna:rare    # з в/у",
+      "  їдцями noun:anim:p:v_oru",
+      "  їдцях noun:anim:p:v_mis",
+      "  їдці noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдження",
+    "forms": [
+      "їдження noun:inanim:n:v_naz:arch",
+      "  їдження noun:inanim:n:v_rod:arch",
+      "  їдженню noun:inanim:n:v_dav:arch",
+      "  їдження noun:inanim:n:v_zna:arch",
+      "  їдженням noun:inanim:n:v_oru:arch",
+      "  їдженні noun:inanim:n:v_mis:arch",
+      "  їдженню noun:inanim:n:v_mis:arch",
+      "  їдження noun:inanim:n:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їдиш",
+    "forms": [
+      "їдиш noun:inanim:m:v_naz",
+      "  їдишу noun:inanim:m:v_rod",
+      "  їдишеві noun:inanim:m:v_dav",
+      "  їдишу noun:inanim:m:v_dav",
+      "  їдиш noun:inanim:m:v_zna",
+      "  їдишем noun:inanim:m:v_oru",
+      "  їдишеві noun:inanim:m:v_mis",
+      "  їдиші noun:inanim:m:v_mis",
+      "  їдишу noun:inanim:m:v_mis",
+      "  їдишу noun:inanim:m:v_kly"
+    ]
+  },
+  {
+    "term": "їдишизм",
+    "forms": [
+      "їдишизм noun:inanim:m:v_naz",
+      "  їдишизму noun:inanim:m:v_rod",
+      "  їдишизмові noun:inanim:m:v_dav",
+      "  їдишизму noun:inanim:m:v_dav",
+      "  їдишизм noun:inanim:m:v_zna",
+      "  їдишизмом noun:inanim:m:v_oru",
+      "  їдишизмі noun:inanim:m:v_mis",
+      "  їдишизмові noun:inanim:m:v_mis",
+      "  їдишизму noun:inanim:m:v_mis",
+      "  їдишизме noun:inanim:m:v_kly"
+    ]
+  },
+  {
+    "term": "їдишомовний",
+    "forms": [
+      "їдишомовний adj:m:v_naz",
+      "  їдишомовного adj:m:v_rod",
+      "  їдишомовному adj:m:v_dav",
+      "  їдишомовного adj:m:v_zna:ranim",
+      "  їдишомовний adj:m:v_zna:rinanim",
+      "  їдишомовним adj:m:v_oru",
+      "  їдишомовнім adj:m:v_mis",
+      "  їдишомовному adj:m:v_mis",
+      "  їдишомовний adj:m:v_kly",
+      "  їдишомовна adj:f:v_naz",
+      "  їдишомовної adj:f:v_rod",
+      "  їдишомовній adj:f:v_dav",
+      "  їдишомовну adj:f:v_zna",
+      "  їдишомовною adj:f:v_oru",
+      "  їдишомовній adj:f:v_mis",
+      "  їдишомовна adj:f:v_kly",
+      "  їдишомовне adj:n:v_naz",
+      "  їдишомовного adj:n:v_rod",
+      "  їдишомовному adj:n:v_dav",
+      "  їдишомовне adj:n:v_zna",
+      "  їдишомовним adj:n:v_oru",
+      "  їдишомовнім adj:n:v_mis",
+      "  їдишомовному adj:n:v_mis",
+      "  їдишомовне adj:n:v_kly",
+      "  їдишомовні adj:p:v_naz",
+      "  їдишомовних adj:p:v_rod",
+      "  їдишомовним adj:p:v_dav",
+      "  їдишомовних adj:p:v_zna:ranim",
+      "  їдишомовні adj:p:v_zna:rinanim",
+      "  їдишомовними adj:p:v_oru",
+      "  їдишомовних adj:p:v_mis",
+      "  їдишомовні adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдишський",
+    "forms": [
+      "їдишський adj:m:v_naz",
+      "  їдишського adj:m:v_rod",
+      "  їдишському adj:m:v_dav",
+      "  їдишського adj:m:v_zna:ranim",
+      "  їдишський adj:m:v_zna:rinanim",
+      "  їдишським adj:m:v_oru",
+      "  їдишськім adj:m:v_mis",
+      "  їдишському adj:m:v_mis",
+      "  їдишський adj:m:v_kly",
+      "  їдишська adj:f:v_naz",
+      "  їдишської adj:f:v_rod",
+      "  їдишській adj:f:v_dav",
+      "  їдишську adj:f:v_zna",
+      "  їдишською adj:f:v_oru",
+      "  їдишській adj:f:v_mis",
+      "  їдишська adj:f:v_kly",
+      "  їдишське adj:n:v_naz",
+      "  їдишського adj:n:v_rod",
+      "  їдишському adj:n:v_dav",
+      "  їдишське adj:n:v_zna",
+      "  їдишським adj:n:v_oru",
+      "  їдишськім adj:n:v_mis",
+      "  їдишському adj:n:v_mis",
+      "  їдишське adj:n:v_kly",
+      "  їдишські adj:p:v_naz",
+      "  їдишських adj:p:v_rod",
+      "  їдишським adj:p:v_dav",
+      "  їдишських adj:p:v_zna:ranim",
+      "  їдишські adj:p:v_zna:rinanim",
+      "  їдишськими adj:p:v_oru",
+      "  їдишських adj:p:v_mis",
+      "  їдишські adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдіння",
+    "forms": [
+      "їдіння noun:inanim:n:v_naz:arch",
+      "  їдіння noun:inanim:n:v_rod:arch",
+      "  їдінню noun:inanim:n:v_dav:arch",
+      "  їдіння noun:inanim:n:v_zna:arch",
+      "  їдінням noun:inanim:n:v_oru:arch",
+      "  їдінні noun:inanim:n:v_mis:arch",
+      "  їдінню noun:inanim:n:v_mis:arch",
+      "  їдіння noun:inanim:n:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їдкий",
+    "forms": [
+      "їдкий adj:m:v_naz:compb",
+      "  їдкого adj:m:v_rod:compb",
+      "  їдкому adj:m:v_dav:compb",
+      "  їдкого adj:m:v_zna:ranim:compb",
+      "  їдкий adj:m:v_zna:rinanim:compb",
+      "  їдким adj:m:v_oru:compb",
+      "  їдкім adj:m:v_mis:compb",
+      "  їдкому adj:m:v_mis:compb",
+      "  їдкий adj:m:v_kly:compb",
+      "  їдка adj:f:v_naz:compb",
+      "  їдкої adj:f:v_rod:compb",
+      "  їдкій adj:f:v_dav:compb",
+      "  їдку adj:f:v_zna:compb",
+      "  їдкою adj:f:v_oru:compb",
+      "  їдкій adj:f:v_mis:compb",
+      "  їдка adj:f:v_kly:compb",
+      "  їдке adj:n:v_naz:compb",
+      "  їдкого adj:n:v_rod:compb",
+      "  їдкому adj:n:v_dav:compb",
+      "  їдке adj:n:v_zna:compb",
+      "  їдким adj:n:v_oru:compb",
+      "  їдкім adj:n:v_mis:compb",
+      "  їдкому adj:n:v_mis:compb",
+      "  їдке adj:n:v_kly:compb",
+      "  їдкі adj:p:v_naz:compb",
+      "  їдких adj:p:v_rod:compb",
+      "  їдким adj:p:v_dav:compb",
+      "  їдких adj:p:v_zna:ranim:compb",
+      "  їдкі adj:p:v_zna:rinanim:compb",
+      "  їдкими adj:p:v_oru:compb",
+      "  їдких adj:p:v_mis:compb",
+      "  їдкі adj:p:v_kly:compb"
+    ]
+  },
+  {
+    "term": "їдкість",
+    "forms": [
+      "їдкість noun:inanim:f:v_naz",
+      "  їдкості noun:inanim:f:v_rod",
+      "  їдкости noun:inanim:f:v_rod:ua_2019",
+      "  їдкості noun:inanim:f:v_dav",
+      "  їдкість noun:inanim:f:v_zna",
+      "  їдкістю noun:inanim:f:v_oru",
+      "  їдкості noun:inanim:f:v_mis",
+      "  їдкосте noun:inanim:f:v_kly",
+      "  їдкості noun:inanim:p:v_naz",
+      "  їдкостей noun:inanim:p:v_rod",
+      "  їдкостям noun:inanim:p:v_dav",
+      "  їдкості noun:inanim:p:v_zna",
+      "  їдкостями noun:inanim:p:v_oru",
+      "  їдкостях noun:inanim:p:v_mis",
+      "  їдкості noun:inanim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдкіше",
+    "forms": [
+      "їдкіше adv:compc",
+      "  їдкіш adv:compc:short"
+    ]
+  },
+  {
+    "term": "їдкіший",
+    "forms": [
+      "їдкіший adj:m:v_naz:compc",
+      "  їдкішого adj:m:v_rod:compc",
+      "  їдкішому adj:m:v_dav:compc",
+      "  їдкішого adj:m:v_zna:ranim:compc",
+      "  їдкіший adj:m:v_zna:rinanim:compc",
+      "  їдкішим adj:m:v_oru:compc",
+      "  їдкішім adj:m:v_mis:compc",
+      "  їдкішому adj:m:v_mis:compc",
+      "  їдкіший adj:m:v_kly:compc",
+      "  їдкіша adj:f:v_naz:compc",
+      "  їдкішої adj:f:v_rod:compc",
+      "  їдкішій adj:f:v_dav:compc",
+      "  їдкішу adj:f:v_zna:compc",
+      "  їдкішою adj:f:v_oru:compc",
+      "  їдкішій adj:f:v_mis:compc",
+      "  їдкіша adj:f:v_kly:compc",
+      "  їдкіше adj:n:v_naz:compc",
+      "  їдкішого adj:n:v_rod:compc",
+      "  їдкішому adj:n:v_dav:compc",
+      "  їдкіше adj:n:v_zna:compc",
+      "  їдкішим adj:n:v_oru:compc",
+      "  їдкішім adj:n:v_mis:compc",
+      "  їдкішому adj:n:v_mis:compc",
+      "  їдкіше adj:n:v_kly:compc",
+      "  їдкіші adj:p:v_naz:compc",
+      "  їдкіших adj:p:v_rod:compc",
+      "  їдкішим adj:p:v_dav:compc",
+      "  їдкіших adj:p:v_zna:ranim:compc",
+      "  їдкіші adj:p:v_zna:rinanim:compc",
+      "  їдкішими adj:p:v_oru:compc",
+      "  їдкіших adj:p:v_mis:compc",
+      "  їдкіші adj:p:v_kly:compc"
+    ]
+  },
+  {
+    "term": "їдко",
+    "forms": [
+      "їдко adv:compb"
+    ]
+  },
+  {
+    "term": "їдкуватий",
+    "forms": [
+      "їдкуватий adj:m:v_naz",
+      "  їдкуватого adj:m:v_rod",
+      "  їдкуватому adj:m:v_dav",
+      "  їдкуватого adj:m:v_zna:ranim",
+      "  їдкуватий adj:m:v_zna:rinanim",
+      "  їдкуватим adj:m:v_oru",
+      "  їдкуватім adj:m:v_mis",
+      "  їдкуватому adj:m:v_mis",
+      "  їдкуватий adj:m:v_kly",
+      "  їдкувата adj:f:v_naz",
+      "  їдкуватої adj:f:v_rod",
+      "  їдкуватій adj:f:v_dav",
+      "  їдкувату adj:f:v_zna",
+      "  їдкуватою adj:f:v_oru",
+      "  їдкуватій adj:f:v_mis",
+      "  їдкувата adj:f:v_kly",
+      "  їдкувате adj:n:v_naz",
+      "  їдкуватого adj:n:v_rod",
+      "  їдкуватому adj:n:v_dav",
+      "  їдкувате adj:n:v_zna",
+      "  їдкуватим adj:n:v_oru",
+      "  їдкуватім adj:n:v_mis",
+      "  їдкуватому adj:n:v_mis",
+      "  їдкувате adj:n:v_kly",
+      "  їдкуваті adj:p:v_naz",
+      "  їдкуватих adj:p:v_rod",
+      "  їдкуватим adj:p:v_dav",
+      "  їдкуватих adj:p:v_zna:ranim",
+      "  їдкуваті adj:p:v_zna:rinanim",
+      "  їдкуватими adj:p:v_oru",
+      "  їдкуватих adj:p:v_mis",
+      "  їдкуваті adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдкувато",
+    "forms": [
+      "їдкувато adv"
+    ]
+  },
+  {
+    "term": "їдло",
+    "forms": [
+      "їдло noun:inanim:n:v_naz",
+      "  їдла noun:inanim:n:v_rod",
+      "  їдлу noun:inanim:n:v_dav",
+      "  їдло noun:inanim:n:v_zna",
+      "  їдлом noun:inanim:n:v_oru",
+      "  їдлі noun:inanim:n:v_mis",
+      "  їдлу noun:inanim:n:v_mis",
+      "  їдло noun:inanim:n:v_kly"
+    ]
+  },
+  {
+    "term": "їдок",
+    "forms": [
+      "їдок noun:anim:m:v_naz",
+      "  їдока noun:anim:m:v_rod",
+      "  їдокові noun:anim:m:v_dav",
+      "  їдоку noun:anim:m:v_dav",
+      "  їдока noun:anim:m:v_zna",
+      "  їдоком noun:anim:m:v_oru",
+      "  їдокові noun:anim:m:v_mis",
+      "  їдоку noun:anim:m:v_mis",
+      "  їдоку noun:anim:m:v_kly",
+      "  їдоки noun:anim:p:v_naz",
+      "  їдоків noun:anim:p:v_rod",
+      "  їдокам noun:anim:p:v_dav",
+      "  їдоків noun:anim:p:v_zna",
+      "  їдоки noun:anim:p:v_zna:rare    # з в/у",
+      "  їдоками noun:anim:p:v_oru",
+      "  їдоках noun:anim:p:v_mis",
+      "  їдоки noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдом",
+    "forms": [
+      "їдом adv"
+    ]
+  },
+  {
+    "term": "їдуха",
+    "forms": [
+      "їдуха noun:anim:m:v_naz:arch",
+      "  їдухи noun:anim:m:v_rod:arch",
+      "  їдусі noun:anim:m:v_dav:arch",
+      "  їдуху noun:anim:m:v_zna:arch",
+      "  їдухою noun:anim:m:v_oru:arch",
+      "  їдусі noun:anim:m:v_mis:arch",
+      "  їдухо noun:anim:m:v_kly:arch",
+      "  їдуха noun:anim:f:v_naz:arch",
+      "  їдухи noun:anim:f:v_rod:arch",
+      "  їдусі noun:anim:f:v_dav:arch",
+      "  їдуху noun:anim:f:v_zna:arch",
+      "  їдухою noun:anim:f:v_oru:arch",
+      "  їдусі noun:anim:f:v_mis:arch",
+      "  їдухо noun:anim:f:v_kly:arch",
+      "  їдухи noun:anim:p:v_naz:arch",
+      "  їдух noun:anim:p:v_rod:arch",
+      "  їдухам noun:anim:p:v_dav:arch",
+      "  їдух noun:anim:p:v_zna:arch",
+      "  їдухи noun:anim:p:v_zna:rare:arch    # з в/у",
+      "  їдухами noun:anim:p:v_oru:arch",
+      "  їдухах noun:anim:p:v_mis:arch",
+      "  їдухи noun:anim:p:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їдучи",
+    "forms": [
+      "їдучи advp:imperf"
+    ]
+  },
+  {
+    "term": "їдучий",
+    "forms": [
+      "їдучий adj:m:v_naz    # xs2 їду́чий + ї́дучий &adjp:actv:imperf:bad",
+      "  їдучого adj:m:v_rod",
+      "  їдучому adj:m:v_dav",
+      "  їдучого adj:m:v_zna:ranim",
+      "  їдучий adj:m:v_zna:rinanim",
+      "  їдучим adj:m:v_oru",
+      "  їдучім adj:m:v_mis",
+      "  їдучому adj:m:v_mis",
+      "  їдучий adj:m:v_kly",
+      "  їдуча adj:f:v_naz",
+      "  їдучої adj:f:v_rod",
+      "  їдучій adj:f:v_dav",
+      "  їдучу adj:f:v_zna",
+      "  їдучою adj:f:v_oru",
+      "  їдучій adj:f:v_mis",
+      "  їдуча adj:f:v_kly",
+      "  їдуче adj:n:v_naz",
+      "  їдучого adj:n:v_rod",
+      "  їдучому adj:n:v_dav",
+      "  їдуче adj:n:v_zna",
+      "  їдучим adj:n:v_oru",
+      "  їдучім adj:n:v_mis",
+      "  їдучому adj:n:v_mis",
+      "  їдуче adj:n:v_kly",
+      "  їдучі adj:p:v_naz",
+      "  їдучих adj:p:v_rod",
+      "  їдучим adj:p:v_dav",
+      "  їдучих adj:p:v_zna:ranim",
+      "  їдучі adj:p:v_zna:rinanim",
+      "  їдучими adj:p:v_oru",
+      "  їдучих adj:p:v_mis",
+      "  їдучі adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їдьма",
+    "forms": [
+      "їдьма adv"
+    ]
+  },
+  {
+    "term": "їдючий",
+    "forms": [
+      "їдючий adj:m:v_naz:arch",
+      "  їдючого adj:m:v_rod:arch",
+      "  їдючому adj:m:v_dav:arch",
+      "  їдючого adj:m:v_zna:ranim:arch",
+      "  їдючий adj:m:v_zna:rinanim:arch",
+      "  їдючим adj:m:v_oru:arch",
+      "  їдючім adj:m:v_mis:arch",
+      "  їдючому adj:m:v_mis:arch",
+      "  їдючий adj:m:v_kly:arch",
+      "  їдюча adj:f:v_naz:arch",
+      "  їдючої adj:f:v_rod:arch",
+      "  їдючій adj:f:v_dav:arch",
+      "  їдючу adj:f:v_zna:arch",
+      "  їдючою adj:f:v_oru:arch",
+      "  їдючій adj:f:v_mis:arch",
+      "  їдюча adj:f:v_kly:arch",
+      "  їдюче adj:n:v_naz:arch",
+      "  їдючого adj:n:v_rod:arch",
+      "  їдючому adj:n:v_dav:arch",
+      "  їдюче adj:n:v_zna:arch",
+      "  їдючим adj:n:v_oru:arch",
+      "  їдючім adj:n:v_mis:arch",
+      "  їдючому adj:n:v_mis:arch",
+      "  їдюче adj:n:v_kly:arch",
+      "  їдючі adj:p:v_naz:arch",
+      "  їдючих adj:p:v_rod:arch",
+      "  їдючим adj:p:v_dav:arch",
+      "  їдючих adj:p:v_zna:ranim:arch",
+      "  їдючі adj:p:v_zna:rinanim:arch",
+      "  їдючими adj:p:v_oru:arch",
+      "  їдючих adj:p:v_mis:arch",
+      "  їдючі adj:p:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їжа",
+    "forms": [
+      "їжа noun:inanim:f:v_naz",
+      "  їжі noun:inanim:f:v_rod",
+      "  їжі noun:inanim:f:v_dav",
+      "  їжу noun:inanim:f:v_zna",
+      "  їжею noun:inanim:f:v_oru",
+      "  їжі noun:inanim:f:v_mis",
+      "  їже noun:inanim:f:v_kly"
+    ]
+  },
+  {
+    "term": "Їжак",
+    "forms": [
+      "Їжак noun:anim:m:v_naz:prop:lname",
+      "  Їжака noun:anim:m:v_rod:prop:lname",
+      "  Їжакові noun:anim:m:v_dav:prop:lname",
+      "  Їжаку noun:anim:m:v_dav:prop:lname",
+      "  Їжака noun:anim:m:v_zna:prop:lname",
+      "  Їжаком noun:anim:m:v_oru:prop:lname",
+      "  Їжакові noun:anim:m:v_mis:prop:lname",
+      "  Їжаку noun:anim:m:v_mis:prop:lname",
+      "  Їжаку noun:anim:m:v_kly:prop:lname"
+    ]
+  },
+  {
+    "term": "Їжак",
+    "forms": [
+      "Їжак noun:anim:f:v_naz:nv:prop:lname",
+      "  Їжак noun:anim:f:v_rod:nv:prop:lname",
+      "  Їжак noun:anim:f:v_dav:nv:prop:lname",
+      "  Їжак noun:anim:f:v_zna:nv:prop:lname",
+      "  Їжак noun:anim:f:v_oru:nv:prop:lname",
+      "  Їжак noun:anim:f:v_mis:nv:prop:lname",
+      "  Їжак noun:anim:f:v_kly:nv:prop:lname"
+    ]
+  },
+  {
+    "term": "їжак",
+    "forms": [
+      "їжак noun:anim:m:v_naz    # :xp1 тварина",
+      "  їжака noun:anim:m:v_rod",
+      "  їжакові noun:anim:m:v_dav",
+      "  їжаку noun:anim:m:v_dav",
+      "  їжака noun:anim:m:v_zna",
+      "  їжаком noun:anim:m:v_oru",
+      "  їжакові noun:anim:m:v_mis",
+      "  їжаку noun:anim:m:v_mis",
+      "  їжаче noun:anim:m:v_kly",
+      "  їжаки noun:anim:p:v_naz",
+      "  їжаків noun:anim:p:v_rod",
+      "  їжакам noun:anim:p:v_dav",
+      "  їжаки noun:anim:p:v_zna",
+      "  їжаків noun:anim:p:v_zna",
+      "  їжаками noun:anim:p:v_oru",
+      "  їжаках noun:anim:p:v_mis",
+      "  їжаки noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжак",
+    "forms": [
+      "їжак noun:inanim:m:v_naz    # :xp2 пристрій",
+      "  їжака noun:inanim:m:v_rod",
+      "  їжакові noun:inanim:m:v_dav",
+      "  їжаку noun:inanim:m:v_dav",
+      "  їжак noun:inanim:m:v_zna",
+      "  їжаком noun:inanim:m:v_oru",
+      "  їжакові noun:inanim:m:v_mis",
+      "  їжаку noun:inanim:m:v_mis",
+      "  їжаче noun:inanim:m:v_kly",
+      "  їжаки noun:inanim:p:v_naz",
+      "  їжаків noun:inanim:p:v_rod",
+      "  їжакам noun:inanim:p:v_dav",
+      "  їжаки noun:inanim:p:v_zna",
+      "  їжаками noun:inanim:p:v_oru",
+      "  їжаках noun:inanim:p:v_mis",
+      "  їжаки noun:inanim:p:v_kly"
+    ]
+  },
+  {
+    "term": "Їжакевич",
+    "forms": [
+      "Їжакевич noun:anim:m:v_naz:prop:lname",
+      "  Їжакевича noun:anim:m:v_rod:prop:lname",
+      "  Їжакевичеві noun:anim:m:v_dav:prop:lname",
+      "  Їжакевичу noun:anim:m:v_dav:prop:lname",
+      "  Їжакевича noun:anim:m:v_zna:prop:lname",
+      "  Їжакевичем noun:anim:m:v_oru:prop:lname",
+      "  Їжакевичеві noun:anim:m:v_mis:prop:lname",
+      "  Їжакевичі noun:anim:m:v_mis:prop:lname",
+      "  Їжакевичу noun:anim:m:v_mis:prop:lname",
+      "  Їжакевичу noun:anim:m:v_kly:prop:lname"
+    ]
+  },
+  {
+    "term": "Їжакевич",
+    "forms": [
+      "Їжакевич noun:anim:f:v_naz:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_rod:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_dav:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_zna:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_oru:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_mis:nv:prop:lname",
+      "  Їжакевич noun:anim:f:v_kly:nv:prop:lname"
+    ]
+  },
+  {
+    "term": "Їжаківка",
+    "forms": [
+      "Їжаківка noun:inanim:f:v_naz:prop:geo",
+      "  Їжаківки noun:inanim:f:v_rod:prop:geo",
+      "  Їжаківці noun:inanim:f:v_dav:prop:geo",
+      "  Їжаківку noun:inanim:f:v_zna:prop:geo",
+      "  Їжаківкою noun:inanim:f:v_oru:prop:geo",
+      "  Їжаківці noun:inanim:f:v_mis:prop:geo",
+      "  Їжаківко noun:inanim:f:v_kly:prop:geo"
+    ]
+  },
+  {
+    "term": "їжаковий",
+    "forms": [
+      "їжаковий adj:m:v_naz",
+      "  їжакового adj:m:v_rod",
+      "  їжаковому adj:m:v_dav",
+      "  їжакового adj:m:v_zna:ranim",
+      "  їжаковий adj:m:v_zna:rinanim",
+      "  їжаковим adj:m:v_oru",
+      "  їжаковім adj:m:v_mis",
+      "  їжаковому adj:m:v_mis",
+      "  їжаковий adj:m:v_kly",
+      "  їжакова adj:f:v_naz",
+      "  їжакової adj:f:v_rod",
+      "  їжаковій adj:f:v_dav",
+      "  їжакову adj:f:v_zna",
+      "  їжаковою adj:f:v_oru",
+      "  їжаковій adj:f:v_mis",
+      "  їжакова adj:f:v_kly",
+      "  їжакове adj:n:v_naz",
+      "  їжакового adj:n:v_rod",
+      "  їжаковому adj:n:v_dav",
+      "  їжакове adj:n:v_zna",
+      "  їжаковим adj:n:v_oru",
+      "  їжаковім adj:n:v_mis",
+      "  їжаковому adj:n:v_mis",
+      "  їжакове adj:n:v_kly",
+      "  їжакові adj:p:v_naz",
+      "  їжакових adj:p:v_rod",
+      "  їжаковим adj:p:v_dav",
+      "  їжакових adj:p:v_zna:ranim",
+      "  їжакові adj:p:v_zna:rinanim",
+      "  їжаковими adj:p:v_oru",
+      "  їжакових adj:p:v_mis",
+      "  їжакові adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжак-риба",
+    "forms": [
+      "їжак-риба noun:anim:f:v_naz",
+      "  їжак-риби noun:anim:f:v_rod",
+      "  їжак-рибі noun:anim:f:v_dav",
+      "  їжак-рибу noun:anim:f:v_zna",
+      "  їжак-рибою noun:anim:f:v_oru",
+      "  їжак-рибі noun:anim:f:v_mis",
+      "  їжак-рибо noun:anim:f:v_kly",
+      "  їжак-риби noun:anim:p:v_naz",
+      "  їжак-риб noun:anim:p:v_rod",
+      "  їжак-рибам noun:anim:p:v_dav",
+      "  їжак-риб noun:anim:p:v_zna",
+      "  їжак-риби noun:anim:p:v_zna",
+      "  їжак-рибами noun:anim:p:v_oru",
+      "  їжак-рибах noun:anim:p:v_mis",
+      "  їжак-риби noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжакуватий",
+    "forms": [
+      "їжакуватий adj:m:v_naz",
+      "  їжакуватого adj:m:v_rod",
+      "  їжакуватому adj:m:v_dav",
+      "  їжакуватого adj:m:v_zna:ranim",
+      "  їжакуватий adj:m:v_zna:rinanim",
+      "  їжакуватим adj:m:v_oru",
+      "  їжакуватім adj:m:v_mis",
+      "  їжакуватому adj:m:v_mis",
+      "  їжакуватий adj:m:v_kly",
+      "  їжакувата adj:f:v_naz",
+      "  їжакуватої adj:f:v_rod",
+      "  їжакуватій adj:f:v_dav",
+      "  їжакувату adj:f:v_zna",
+      "  їжакуватою adj:f:v_oru",
+      "  їжакуватій adj:f:v_mis",
+      "  їжакувата adj:f:v_kly",
+      "  їжакувате adj:n:v_naz",
+      "  їжакуватого adj:n:v_rod",
+      "  їжакуватому adj:n:v_dav",
+      "  їжакувате adj:n:v_zna",
+      "  їжакуватим adj:n:v_oru",
+      "  їжакуватім adj:n:v_mis",
+      "  їжакуватому adj:n:v_mis",
+      "  їжакувате adj:n:v_kly",
+      "  їжакуваті adj:p:v_naz",
+      "  їжакуватих adj:p:v_rod",
+      "  їжакуватим adj:p:v_dav",
+      "  їжакуватих adj:p:v_zna:ranim",
+      "  їжакуваті adj:p:v_zna:rinanim",
+      "  їжакуватими adj:p:v_oru",
+      "  їжакуватих adj:p:v_mis",
+      "  їжакуваті adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжакувато",
+    "forms": [
+      "їжакувато adv"
+    ]
+  },
+  {
+    "term": "їжатець",
+    "forms": [
+      "їжатець noun:anim:m:v_naz",
+      "  їжатця noun:anim:m:v_rod",
+      "  їжатцеві noun:anim:m:v_dav",
+      "  їжатцю noun:anim:m:v_dav",
+      "  їжатця noun:anim:m:v_zna",
+      "  їжатцем noun:anim:m:v_oru",
+      "  їжатцеві noun:anim:m:v_mis",
+      "  їжатці noun:anim:m:v_mis",
+      "  їжатцю noun:anim:m:v_mis",
+      "  їжатцю noun:anim:m:v_kly",
+      "  їжатці noun:anim:p:v_naz",
+      "  їжатців noun:anim:p:v_rod",
+      "  їжатцям noun:anim:p:v_dav",
+      "  їжатці noun:anim:p:v_zna",
+      "  їжатців noun:anim:p:v_zna",
+      "  їжатцями noun:anim:p:v_oru",
+      "  їжатцях noun:anim:p:v_mis",
+      "  їжатці noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачачись",
+    "forms": [
+      "їжачачись advp:rev:imperf",
+      "  їжачачися advp:rev:imperf:long"
+    ]
+  },
+  {
+    "term": "їжаченя",
+    "forms": [
+      "їжаченя noun:anim:n:v_naz",
+      "  їжаченяти noun:anim:n:v_rod",
+      "  їжаченяті noun:anim:n:v_dav",
+      "  їжаченя noun:anim:n:v_zna",
+      "  їжаченям noun:anim:n:v_oru",
+      "  їжаченяті noun:anim:n:v_mis",
+      "  їжаченя noun:anim:n:v_kly",
+      "  їжаченята noun:anim:p:v_naz",
+      "  їжаченят noun:anim:p:v_rod",
+      "  їжаченятам noun:anim:p:v_dav",
+      "  їжаченят noun:anim:p:v_zna",
+      "  їжаченята noun:anim:p:v_zna",
+      "  їжаченятами noun:anim:p:v_oru",
+      "  їжаченятах noun:anim:p:v_mis",
+      "  їжаченята noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачившись",
+    "forms": [
+      "їжачившись advp:rev:imperf",
+      "  їжачившися advp:rev:imperf:long"
+    ]
+  },
+  {
+    "term": "їжачий",
+    "forms": [
+      "їжачий adj:m:v_naz",
+      "  їжачого adj:m:v_rod",
+      "  їжачому adj:m:v_dav",
+      "  їжачого adj:m:v_zna:ranim",
+      "  їжачий adj:m:v_zna:rinanim",
+      "  їжачим adj:m:v_oru",
+      "  їжачім adj:m:v_mis",
+      "  їжачому adj:m:v_mis",
+      "  їжачий adj:m:v_kly",
+      "  їжача adj:f:v_naz",
+      "  їжачої adj:f:v_rod",
+      "  їжачій adj:f:v_dav",
+      "  їжачу adj:f:v_zna",
+      "  їжачою adj:f:v_oru",
+      "  їжачій adj:f:v_mis",
+      "  їжача adj:f:v_kly",
+      "  їжаче adj:n:v_naz",
+      "  їжачого adj:n:v_rod",
+      "  їжачому adj:n:v_dav",
+      "  їжаче adj:n:v_zna",
+      "  їжачим adj:n:v_oru",
+      "  їжачім adj:n:v_mis",
+      "  їжачому adj:n:v_mis",
+      "  їжаче adj:n:v_kly",
+      "  їжачі adj:p:v_naz",
+      "  їжачих adj:p:v_rod",
+      "  їжачим adj:p:v_dav",
+      "  їжачих adj:p:v_zna:ranim",
+      "  їжачі adj:p:v_zna:rinanim",
+      "  їжачими adj:p:v_oru",
+      "  їжачих adj:p:v_mis",
+      "  їжачі adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачись",
+    "forms": [
+      "їжачись advp:rev:imperf",
+      "  їжачися advp:rev:imperf:long"
+    ]
+  },
+  {
+    "term": "їжачисько",
+    "forms": [
+      "їжачисько noun:anim:m:v_naz",
+      "  їжачиська noun:anim:m:v_rod",
+      "  їжачиськові noun:anim:m:v_dav",
+      "  їжачиську noun:anim:m:v_dav",
+      "  їжачиська noun:anim:m:v_zna",
+      "  їжачиськом noun:anim:m:v_oru",
+      "  їжачиськові noun:anim:m:v_mis",
+      "  їжачиську noun:anim:m:v_mis",
+      "  їжачиську noun:anim:m:v_kly",
+      "  їжачисько noun:anim:n:v_naz",
+      "  їжачиська noun:anim:n:v_rod",
+      "  їжачиськові noun:anim:n:v_dav",
+      "  їжачиську noun:anim:n:v_dav",
+      "  їжачисько noun:anim:n:v_zna",
+      "  їжачиськом noun:anim:n:v_oru",
+      "  їжачиськові noun:anim:n:v_mis",
+      "  їжачиську noun:anim:n:v_mis",
+      "  їжачисько noun:anim:n:v_kly",
+      "  їжачиська noun:anim:p:v_naz",
+      "  їжачиськ noun:anim:p:v_rod",
+      "  їжачисьок noun:anim:p:v_rod",
+      "  їжачиськам noun:anim:p:v_dav",
+      "  їжачиськ noun:anim:p:v_zna",
+      "  їжачиська noun:anim:p:v_zna",
+      "  їжачисьок noun:anim:p:v_zna",
+      "  їжачиськами noun:anim:p:v_oru",
+      "  їжачиськах noun:anim:p:v_mis",
+      "  їжачиська noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачитися",
+    "forms": [
+      "їжачитися verb:rev:imperf:inf    # rv_oru",
+      "  їжачитись verb:rev:imperf:inf",
+      "  їжачиться verb:rev:imperf:inf:short",
+      "  їжачусь verb:rev:imperf:pres:s:1",
+      "  їжачуся verb:rev:imperf:pres:s:1",
+      "  їжачишся verb:rev:imperf:pres:s:2",
+      "  їжачиться verb:rev:imperf:pres:s:3",
+      "  їжачимось verb:rev:imperf:pres:p:1",
+      "  їжачимося verb:rev:imperf:pres:p:1",
+      "  їжачимся verb:rev:imperf:pres:p:1:subst",
+      "  їжачитесь verb:rev:imperf:pres:p:2",
+      "  їжачитеся verb:rev:imperf:pres:p:2",
+      "  їжачаться verb:rev:imperf:pres:p:3",
+      "  їжачитимусь verb:rev:imperf:futr:s:1",
+      "  їжачитимуся verb:rev:imperf:futr:s:1",
+      "  їжачитимешся verb:rev:imperf:futr:s:2",
+      "  їжачитиметься verb:rev:imperf:futr:s:3",
+      "  їжачитимемось verb:rev:imperf:futr:p:1",
+      "  їжачитимемося verb:rev:imperf:futr:p:1",
+      "  їжачитимемся verb:rev:imperf:futr:p:1",
+      "  їжачитиметесь verb:rev:imperf:futr:p:2",
+      "  їжачитиметеся verb:rev:imperf:futr:p:2",
+      "  їжачитимуться verb:rev:imperf:futr:p:3",
+      "  їжачивсь verb:rev:imperf:past:m",
+      "  їжачився verb:rev:imperf:past:m",
+      "  їжачилась verb:rev:imperf:past:f",
+      "  їжачилася verb:rev:imperf:past:f",
+      "  їжачилось verb:rev:imperf:past:n",
+      "  їжачилося verb:rev:imperf:past:n",
+      "  їжачились verb:rev:imperf:past:p",
+      "  їжачилися verb:rev:imperf:past:p"
+    ]
+  },
+  {
+    "term": "їжачиха",
+    "forms": [
+      "їжачиха noun:anim:f:v_naz",
+      "  їжачихи noun:anim:f:v_rod",
+      "  їжачисі noun:anim:f:v_dav",
+      "  їжачиху noun:anim:f:v_zna",
+      "  їжачихою noun:anim:f:v_oru",
+      "  їжачисі noun:anim:f:v_mis",
+      "  їжачихо noun:anim:f:v_kly",
+      "  їжачихи noun:anim:p:v_naz",
+      "  їжачих noun:anim:p:v_rod",
+      "  їжачихам noun:anim:p:v_dav",
+      "  їжачих noun:anim:p:v_zna",
+      "  їжачихи noun:anim:p:v_zna",
+      "  їжачихами noun:anim:p:v_oru",
+      "  їжачихах noun:anim:p:v_mis",
+      "  їжачихи noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачкуватий",
+    "forms": [
+      "їжачкуватий adj:m:v_naz",
+      "  їжачкуватого adj:m:v_rod",
+      "  їжачкуватому adj:m:v_dav",
+      "  їжачкуватого adj:m:v_zna:ranim",
+      "  їжачкуватий adj:m:v_zna:rinanim",
+      "  їжачкуватим adj:m:v_oru",
+      "  їжачкуватім adj:m:v_mis",
+      "  їжачкуватому adj:m:v_mis",
+      "  їжачкуватий adj:m:v_kly",
+      "  їжачкувата adj:f:v_naz",
+      "  їжачкуватої adj:f:v_rod",
+      "  їжачкуватій adj:f:v_dav",
+      "  їжачкувату adj:f:v_zna",
+      "  їжачкуватою adj:f:v_oru",
+      "  їжачкуватій adj:f:v_mis",
+      "  їжачкувата adj:f:v_kly",
+      "  їжачкувате adj:n:v_naz",
+      "  їжачкуватого adj:n:v_rod",
+      "  їжачкуватому adj:n:v_dav",
+      "  їжачкувате adj:n:v_zna",
+      "  їжачкуватим adj:n:v_oru",
+      "  їжачкуватім adj:n:v_mis",
+      "  їжачкуватому adj:n:v_mis",
+      "  їжачкувате adj:n:v_kly",
+      "  їжачкуваті adj:p:v_naz",
+      "  їжачкуватих adj:p:v_rod",
+      "  їжачкуватим adj:p:v_dav",
+      "  їжачкуватих adj:p:v_zna:ranim",
+      "  їжачкуваті adj:p:v_zna:rinanim",
+      "  їжачкуватими adj:p:v_oru",
+      "  їжачкуватих adj:p:v_mis",
+      "  їжачкуваті adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжачник",
+    "forms": [
+      "їжачник noun:inanim:m:v_naz",
+      "  їжачнику noun:inanim:m:v_rod",
+      "  їжачникові noun:inanim:m:v_dav",
+      "  їжачнику noun:inanim:m:v_dav",
+      "  їжачник noun:inanim:m:v_zna",
+      "  їжачником noun:inanim:m:v_oru",
+      "  їжачникові noun:inanim:m:v_mis",
+      "  їжачнику noun:inanim:m:v_mis",
+      "  їжачнику noun:inanim:m:v_kly"
+    ]
+  },
+  {
+    "term": "їжачоголівкові",
+    "forms": [
+      "їжачоголівкові noun:anim:p:v_naz:ns",
+      "  їжачоголівкових noun:anim:p:v_rod:ns",
+      "  їжачоголівковим noun:anim:p:v_dav:ns",
+      "  їжачоголівкових noun:anim:p:v_zna:ns",
+      "  їжачоголівкові noun:anim:p:v_zna:ns",
+      "  їжачоголівковими noun:anim:p:v_oru:ns",
+      "  їжачоголівкових noun:anim:p:v_mis:ns",
+      "  їжачоголівкові noun:anim:p:v_kly:ns"
+    ]
+  },
+  {
+    "term": "їжачок",
+    "forms": [
+      "їжачок noun:anim:m:v_naz",
+      "  їжачка noun:anim:m:v_rod",
+      "  їжачкові noun:anim:m:v_dav",
+      "  їжачку noun:anim:m:v_dav",
+      "  їжачка noun:anim:m:v_zna",
+      "  їжачком noun:anim:m:v_oru",
+      "  їжачкові noun:anim:m:v_mis",
+      "  їжачку noun:anim:m:v_mis",
+      "  їжачку noun:anim:m:v_kly",
+      "  їжачки noun:anim:p:v_naz",
+      "  їжачків noun:anim:p:v_rod",
+      "  їжачкам noun:anim:p:v_dav",
+      "  їжачки noun:anim:p:v_zna",
+      "  їжачків noun:anim:p:v_zna",
+      "  їжачками noun:anim:p:v_oru",
+      "  їжачках noun:anim:p:v_mis",
+      "  їжачки noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їжджений",
+    "forms": [
+      "їжджений adj:m:v_naz:&adjp:pasv:imperf",
+      "  їждженого adj:m:v_rod:&adjp:pasv:imperf",
+      "  їждженому adj:m:v_dav:&adjp:pasv:imperf",
+      "  їждженого adj:m:v_zna:ranim:&adjp:pasv:imperf",
+      "  їжджений adj:m:v_zna:rinanim:&adjp:pasv:imperf",
+      "  їждженим adj:m:v_oru:&adjp:pasv:imperf",
+      "  їждженім adj:m:v_mis:&adjp:pasv:imperf",
+      "  їждженому adj:m:v_mis:&adjp:pasv:imperf",
+      "  їжджений adj:m:v_kly:&adjp:pasv:imperf",
+      "  їжджена adj:f:v_naz:&adjp:pasv:imperf",
+      "  їждженої adj:f:v_rod:&adjp:pasv:imperf",
+      "  їждженій adj:f:v_dav:&adjp:pasv:imperf",
+      "  їжджену adj:f:v_zna:&adjp:pasv:imperf",
+      "  їждженою adj:f:v_oru:&adjp:pasv:imperf",
+      "  їждженій adj:f:v_mis:&adjp:pasv:imperf",
+      "  їжджена adj:f:v_kly:&adjp:pasv:imperf",
+      "  їжджене adj:n:v_naz:&adjp:pasv:imperf",
+      "  їждженого adj:n:v_rod:&adjp:pasv:imperf",
+      "  їждженому adj:n:v_dav:&adjp:pasv:imperf",
+      "  їжджене adj:n:v_zna:&adjp:pasv:imperf",
+      "  їждженим adj:n:v_oru:&adjp:pasv:imperf",
+      "  їждженім adj:n:v_mis:&adjp:pasv:imperf",
+      "  їждженому adj:n:v_mis:&adjp:pasv:imperf",
+      "  їжджене adj:n:v_kly:&adjp:pasv:imperf",
+      "  їжджені adj:p:v_naz:&adjp:pasv:imperf",
+      "  їжджених adj:p:v_rod:&adjp:pasv:imperf",
+      "  їждженим adj:p:v_dav:&adjp:pasv:imperf",
+      "  їжджених adj:p:v_zna:ranim:&adjp:pasv:imperf",
+      "  їжджені adj:p:v_zna:rinanim:&adjp:pasv:imperf",
+      "  їждженими adj:p:v_oru:&adjp:pasv:imperf",
+      "  їжджених adj:p:v_mis:&adjp:pasv:imperf",
+      "  їжджені adj:p:v_kly:&adjp:pasv:imperf"
+    ]
+  },
+  {
+    "term": "їждження",
+    "forms": [
+      "їждження noun:inanim:n:v_naz",
+      "  їждження noun:inanim:n:v_rod",
+      "  їждженню noun:inanim:n:v_dav",
+      "  їждження noun:inanim:n:v_zna",
+      "  їждженням noun:inanim:n:v_oru",
+      "  їждженні noun:inanim:n:v_mis",
+      "  їждженню noun:inanim:n:v_mis",
+      "  їждження noun:inanim:n:v_kly"
+    ]
+  },
+  {
+    "term": "їжджучи",
+    "forms": [
+      "їжджучи advp:imperf"
+    ]
+  },
+  {
+    "term": "їжившись",
+    "forms": [
+      "їжившись advp:rev:imperf",
+      "  їжившися advp:rev:imperf:long"
+    ]
+  },
+  {
+    "term": "їжитися",
+    "forms": [
+      "їжитися verb:rev:imperf:inf    # rv_oru",
+      "  їжитись verb:rev:imperf:inf",
+      "  їжиться verb:rev:imperf:inf:short",
+      "  їжусь verb:rev:imperf:pres:s:1",
+      "  їжуся verb:rev:imperf:pres:s:1",
+      "  їжишся verb:rev:imperf:pres:s:2",
+      "  їжиться verb:rev:imperf:pres:s:3",
+      "  їжимось verb:rev:imperf:pres:p:1",
+      "  їжимося verb:rev:imperf:pres:p:1",
+      "  їжимся verb:rev:imperf:pres:p:1:subst",
+      "  їжитесь verb:rev:imperf:pres:p:2",
+      "  їжитеся verb:rev:imperf:pres:p:2",
+      "  їжаться verb:rev:imperf:pres:p:3",
+      "  їжитимусь verb:rev:imperf:futr:s:1",
+      "  їжитимуся verb:rev:imperf:futr:s:1",
+      "  їжитимешся verb:rev:imperf:futr:s:2",
+      "  їжитиметься verb:rev:imperf:futr:s:3",
+      "  їжитимемось verb:rev:imperf:futr:p:1",
+      "  їжитимемося verb:rev:imperf:futr:p:1",
+      "  їжитимемся verb:rev:imperf:futr:p:1",
+      "  їжитиметесь verb:rev:imperf:futr:p:2",
+      "  їжитиметеся verb:rev:imperf:futr:p:2",
+      "  їжитимуться verb:rev:imperf:futr:p:3",
+      "  їживсь verb:rev:imperf:past:m",
+      "  їжився verb:rev:imperf:past:m",
+      "  їжилась verb:rev:imperf:past:f",
+      "  їжилася verb:rev:imperf:past:f",
+      "  їжилось verb:rev:imperf:past:n",
+      "  їжилося verb:rev:imperf:past:n",
+      "  їжились verb:rev:imperf:past:p",
+      "  їжилися verb:rev:imperf:past:p"
+    ]
+  },
+  {
+    "term": "Їжицьке",
+    "forms": [
+      "Їжицьке noun:inanim:n:v_naz:prop:geo",
+      "  Їжицького noun:inanim:n:v_rod:prop:geo",
+      "  Їжицькому noun:inanim:n:v_dav:prop:geo",
+      "  Їжицьке noun:inanim:n:v_zna:prop:geo",
+      "  Їжицьким noun:inanim:n:v_oru:prop:geo",
+      "  Їжицькім noun:inanim:n:v_mis:prop:geo",
+      "  Їжицькому noun:inanim:n:v_mis:prop:geo",
+      "  Їжицьке noun:inanim:n:v_kly:prop:geo"
+    ]
+  },
+  {
+    "term": "їжівський",
+    "forms": [
+      "їжівський adj:m:v_naz",
+      "  їжівського adj:m:v_rod",
+      "  їжівському adj:m:v_dav",
+      "  їжівського adj:m:v_zna:ranim",
+      "  їжівський adj:m:v_zna:rinanim",
+      "  їжівським adj:m:v_oru",
+      "  їжівськім adj:m:v_mis",
+      "  їжівському adj:m:v_mis",
+      "  їжівський adj:m:v_kly",
+      "  їжівська adj:f:v_naz",
+      "  їжівської adj:f:v_rod",
+      "  їжівській adj:f:v_dav",
+      "  їжівську adj:f:v_zna",
+      "  їжівською adj:f:v_oru",
+      "  їжівській adj:f:v_mis",
+      "  їжівська adj:f:v_kly",
+      "  їжівське adj:n:v_naz",
+      "  їжівського adj:n:v_rod",
+      "  їжівському adj:n:v_dav",
+      "  їжівське adj:n:v_zna",
+      "  їжівським adj:n:v_oru",
+      "  їжівськім adj:n:v_mis",
+      "  їжівському adj:n:v_mis",
+      "  їжівське adj:n:v_kly",
+      "  їжівські adj:p:v_naz",
+      "  їжівських adj:p:v_rod",
+      "  їжівським adj:p:v_dav",
+      "  їжівських adj:p:v_zna:ranim",
+      "  їжівські adj:p:v_zna:rinanim",
+      "  їжівськими adj:p:v_oru",
+      "  їжівських adj:p:v_mis",
+      "  їжівські adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "Їжівці",
+    "forms": [
+      "Їжівці noun:inanim:p:v_naz:ns:prop:geo",
+      "  Їжівців noun:inanim:p:v_rod:ns:prop:geo",
+      "  Їжівцям noun:inanim:p:v_dav:ns:prop:geo",
+      "  Їжівці noun:inanim:p:v_zna:ns:prop:geo",
+      "  Їжівцями noun:inanim:p:v_oru:ns:prop:geo",
+      "  Їжівцях noun:inanim:p:v_mis:ns:prop:geo",
+      "  Їжівці noun:inanim:p:v_kly:ns:prop:geo"
+    ]
+  },
+  {
+    "term": "їзда",
+    "forms": [
+      "їзда noun:inanim:f:v_naz",
+      "  їзди noun:inanim:f:v_rod",
+      "  їзді noun:inanim:f:v_dav",
+      "  їзду noun:inanim:f:v_zna",
+      "  їздою noun:inanim:f:v_oru",
+      "  їзді noun:inanim:f:v_mis",
+      "  їздо noun:inanim:f:v_kly"
+    ]
+  },
+  {
+    "term": "їздак",
+    "forms": [
+      "їздак noun:anim:m:v_naz",
+      "  їздака noun:anim:m:v_rod",
+      "  їздакові noun:anim:m:v_dav",
+      "  їздаку noun:anim:m:v_dav",
+      "  їздака noun:anim:m:v_zna",
+      "  їздаком noun:anim:m:v_oru",
+      "  їздакові noun:anim:m:v_mis",
+      "  їздаку noun:anim:m:v_mis",
+      "  їздаку noun:anim:m:v_kly",
+      "  їздаки noun:anim:p:v_naz",
+      "  їздаків noun:anim:p:v_rod",
+      "  їздакам noun:anim:p:v_dav",
+      "  їздаків noun:anim:p:v_zna",
+      "  їздаки noun:anim:p:v_zna:rare    # з в/у",
+      "  їздаками noun:anim:p:v_oru",
+      "  їздаках noun:anim:p:v_mis",
+      "  їздаки noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздецтво",
+    "forms": [
+      "їздецтво noun:inanim:n:v_naz",
+      "  їздецтва noun:inanim:n:v_rod",
+      "  їздецтву noun:inanim:n:v_dav",
+      "  їздецтво noun:inanim:n:v_zna",
+      "  їздецтвом noun:inanim:n:v_oru",
+      "  їздецтві noun:inanim:n:v_mis",
+      "  їздецтву noun:inanim:n:v_mis",
+      "  їздецтво noun:inanim:n:v_kly"
+    ]
+  },
+  {
+    "term": "їздець",
+    "forms": [
+      "їздець noun:anim:m:v_naz",
+      "  їздця noun:anim:m:v_rod",
+      "  їздцеві noun:anim:m:v_dav",
+      "  їздцю noun:anim:m:v_dav",
+      "  їздця noun:anim:m:v_zna",
+      "  їздцем noun:anim:m:v_oru",
+      "  їздцеві noun:anim:m:v_mis",
+      "  їздці noun:anim:m:v_mis",
+      "  їздцю noun:anim:m:v_mis",
+      "  їздцю noun:anim:m:v_kly",
+      "  їздці noun:anim:p:v_naz",
+      "  їздців noun:anim:p:v_rod",
+      "  їздцям noun:anim:p:v_dav",
+      "  їздців noun:anim:p:v_zna",
+      "  їздці noun:anim:p:v_zna:rare    # з в/у",
+      "  їздцями noun:anim:p:v_oru",
+      "  їздцях noun:anim:p:v_mis",
+      "  їздці noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздецький",
+    "forms": [
+      "їздецький adj:m:v_naz",
+      "  їздецького adj:m:v_rod",
+      "  їздецькому adj:m:v_dav",
+      "  їздецького adj:m:v_zna:ranim",
+      "  їздецький adj:m:v_zna:rinanim",
+      "  їздецьким adj:m:v_oru",
+      "  їздецькім adj:m:v_mis",
+      "  їздецькому adj:m:v_mis",
+      "  їздецький adj:m:v_kly",
+      "  їздецька adj:f:v_naz",
+      "  їздецької adj:f:v_rod",
+      "  їздецькій adj:f:v_dav",
+      "  їздецьку adj:f:v_zna",
+      "  їздецькою adj:f:v_oru",
+      "  їздецькій adj:f:v_mis",
+      "  їздецька adj:f:v_kly",
+      "  їздецьке adj:n:v_naz",
+      "  їздецького adj:n:v_rod",
+      "  їздецькому adj:n:v_dav",
+      "  їздецьке adj:n:v_zna",
+      "  їздецьким adj:n:v_oru",
+      "  їздецькім adj:n:v_mis",
+      "  їздецькому adj:n:v_mis",
+      "  їздецьке adj:n:v_kly",
+      "  їздецькі adj:p:v_naz",
+      "  їздецьких adj:p:v_rod",
+      "  їздецьким adj:p:v_dav",
+      "  їздецьких adj:p:v_zna:ranim",
+      "  їздецькі adj:p:v_zna:rinanim",
+      "  їздецькими adj:p:v_oru",
+      "  їздецьких adj:p:v_mis",
+      "  їздецькі adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздивши",
+    "forms": [
+      "їздивши advp:imperf"
+    ]
+  },
+  {
+    "term": "їздити",
+    "forms": [
+      "їздити verb:imperf:inf    # rv_inf:rv_oru",
+      "  їздить verb:imperf:inf:short",
+      "  їздь verb:imperf:impr:s:2",
+      "  їздьмо verb:imperf:impr:p:1",
+      "  їздьте verb:imperf:impr:p:2",
+      "  їздіть verb:imperf:impr:p:2:subst",
+      "  їжджу verb:imperf:pres:s:1",
+      "  їздиш verb:imperf:pres:s:2",
+      "  їздить verb:imperf:pres:s:3",
+      "  їздимо verb:imperf:pres:p:1",
+      "  їздим verb:imperf:pres:p:1:subst",
+      "  їздите verb:imperf:pres:p:2",
+      "  їздять verb:imperf:pres:p:3",
+      "  їздитиму verb:imperf:futr:s:1",
+      "  їздитимеш verb:imperf:futr:s:2",
+      "  їздитиме verb:imperf:futr:s:3",
+      "  їздитимем verb:imperf:futr:p:1",
+      "  їздитимемо verb:imperf:futr:p:1",
+      "  їздитимете verb:imperf:futr:p:2",
+      "  їздитимуть verb:imperf:futr:p:3",
+      "  їздив verb:imperf:past:m",
+      "  їздила verb:imperf:past:f",
+      "  їздило verb:imperf:past:n",
+      "  їздили verb:imperf:past:p",
+      "  їжджено verb:imperf:impers"
+    ]
+  },
+  {
+    "term": "їздитися",
+    "forms": [
+      "їздитися verb:rev:imperf:inf",
+      "  їздитись verb:rev:imperf:inf",
+      "  їздиться verb:rev:imperf:inf:short",
+      "  їздиться verb:rev:imperf:pres:s:3",
+      "  їздитиметься verb:rev:imperf:futr:s:3",
+      "  їздилось verb:rev:imperf:past:n",
+      "  їздилося verb:rev:imperf:past:n"
+    ]
+  },
+  {
+    "term": "їздиця",
+    "forms": [
+      "їздиця noun:anim:f:v_naz",
+      "  їздиці noun:anim:f:v_rod",
+      "  їздиці noun:anim:f:v_dav",
+      "  їздицю noun:anim:f:v_zna",
+      "  їздицею noun:anim:f:v_oru",
+      "  їздиці noun:anim:f:v_mis",
+      "  їздице noun:anim:f:v_kly",
+      "  їздиці noun:anim:p:v_naz",
+      "  їздиць noun:anim:p:v_rod",
+      "  їздицям noun:anim:p:v_dav",
+      "  їздиць noun:anim:p:v_zna",
+      "  їздиці noun:anim:p:v_zna:rare    # з в/у",
+      "  їздицями noun:anim:p:v_oru",
+      "  їздицях noun:anim:p:v_mis",
+      "  їздиці noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздка",
+    "forms": [
+      "їздка noun:inanim:f:v_naz",
+      "  їздки noun:inanim:f:v_rod",
+      "  їздці noun:inanim:f:v_dav",
+      "  їздку noun:inanim:f:v_zna",
+      "  їздкою noun:inanim:f:v_oru",
+      "  їздці noun:inanim:f:v_mis",
+      "  їздко noun:inanim:f:v_kly",
+      "  їздки noun:inanim:p:v_naz",
+      "  їздок noun:inanim:p:v_rod",
+      "  їздкам noun:inanim:p:v_dav",
+      "  їздки noun:inanim:p:v_zna",
+      "  їздками noun:inanim:p:v_oru",
+      "  їздках noun:inanim:p:v_mis",
+      "  їздки noun:inanim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздовий",
+    "forms": [
+      "їздовий adj:m:v_naz",
+      "  їздового adj:m:v_rod",
+      "  їздовому adj:m:v_dav",
+      "  їздового adj:m:v_zna:ranim",
+      "  їздовий adj:m:v_zna:rinanim",
+      "  їздовим adj:m:v_oru",
+      "  їздовім adj:m:v_mis",
+      "  їздовому adj:m:v_mis",
+      "  їздовий adj:m:v_kly",
+      "  їздова adj:f:v_naz",
+      "  їздової adj:f:v_rod",
+      "  їздовій adj:f:v_dav",
+      "  їздову adj:f:v_zna",
+      "  їздовою adj:f:v_oru",
+      "  їздовій adj:f:v_mis",
+      "  їздова adj:f:v_kly",
+      "  їздове adj:n:v_naz",
+      "  їздового adj:n:v_rod",
+      "  їздовому adj:n:v_dav",
+      "  їздове adj:n:v_zna",
+      "  їздовим adj:n:v_oru",
+      "  їздовім adj:n:v_mis",
+      "  їздовому adj:n:v_mis",
+      "  їздове adj:n:v_kly",
+      "  їздові adj:p:v_naz",
+      "  їздових adj:p:v_rod",
+      "  їздовим adj:p:v_dav",
+      "  їздових adj:p:v_zna:ranim",
+      "  їздові adj:p:v_zna:rinanim",
+      "  їздовими adj:p:v_oru",
+      "  їздових adj:p:v_mis",
+      "  їздові adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздовий",
+    "forms": [
+      "їздовий noun:anim:m:v_naz",
+      "  їздового noun:anim:m:v_rod",
+      "  їздовому noun:anim:m:v_dav",
+      "  їздового noun:anim:m:v_zna",
+      "  їздовим noun:anim:m:v_oru",
+      "  їздовім noun:anim:m:v_mis",
+      "  їздовому noun:anim:m:v_mis",
+      "  їздовий noun:anim:m:v_kly",
+      "  їздові noun:anim:p:v_naz",
+      "  їздових noun:anim:p:v_rod",
+      "  їздовим noun:anim:p:v_dav",
+      "  їздових noun:anim:p:v_zna",
+      "  їздові noun:anim:p:v_zna:rare    # з в/у",
+      "  їздовими noun:anim:p:v_oru",
+      "  їздових noun:anim:p:v_mis",
+      "  їздові noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздок",
+    "forms": [
+      "їздок noun:anim:m:v_naz:bad",
+      "  їздока noun:anim:m:v_rod:bad",
+      "  їздокові noun:anim:m:v_dav:bad",
+      "  їздоку noun:anim:m:v_dav:bad",
+      "  їздока noun:anim:m:v_zna:bad",
+      "  їздоком noun:anim:m:v_oru:bad",
+      "  їздокові noun:anim:m:v_mis:bad",
+      "  їздоку noun:anim:m:v_mis:bad",
+      "  їздоку noun:anim:m:v_kly:bad",
+      "  їздоки noun:anim:p:v_naz:bad",
+      "  їздоків noun:anim:p:v_rod:bad",
+      "  їздокам noun:anim:p:v_dav:bad",
+      "  їздоків noun:anim:p:v_zna:bad",
+      "  їздоки noun:anim:p:v_zna:bad:rare    # з в/у",
+      "  їздоками noun:anim:p:v_oru:bad",
+      "  їздоках noun:anim:p:v_mis:bad",
+      "  їздоки noun:anim:p:v_kly:bad"
+    ]
+  },
+  {
+    "term": "їздун",
+    "forms": [
+      "їздун noun:anim:m:v_naz",
+      "  їздуна noun:anim:m:v_rod",
+      "  їздунові noun:anim:m:v_dav",
+      "  їздуну noun:anim:m:v_dav",
+      "  їздуна noun:anim:m:v_zna",
+      "  їздуном noun:anim:m:v_oru",
+      "  їздуні noun:anim:m:v_mis",
+      "  їздунові noun:anim:m:v_mis",
+      "  їздуну noun:anim:m:v_mis",
+      "  їздуне noun:anim:m:v_kly",
+      "  їздуни noun:anim:p:v_naz",
+      "  їздунів noun:anim:p:v_rod",
+      "  їздунам noun:anim:p:v_dav",
+      "  їздунів noun:anim:p:v_zna",
+      "  їздуни noun:anim:p:v_zna:rare    # з в/у",
+      "  їздунами noun:anim:p:v_oru",
+      "  їздунах noun:anim:p:v_mis",
+      "  їздуни noun:anim:p:v_kly"
+    ]
+  },
+  {
+    "term": "їздячи",
+    "forms": [
+      "їздячи advp:imperf"
+    ]
+  },
+  {
+    "term": "її",
+    "forms": [
+      "її adj:m:v_naz:nv:&pron:pos",
+      "  її adj:m:v_rod:nv:&pron:pos",
+      "  її adj:m:v_dav:nv:&pron:pos",
+      "  її adj:m:v_zna:ranim:nv:&pron:pos",
+      "  її adj:m:v_zna:rinanim:nv:&pron:pos",
+      "  її adj:m:v_oru:nv:&pron:pos",
+      "  її adj:m:v_mis:nv:&pron:pos",
+      "  її adj:f:v_naz:nv:&pron:pos",
+      "  її adj:f:v_rod:nv:&pron:pos",
+      "  її adj:f:v_dav:nv:&pron:pos",
+      "  її adj:f:v_zna:nv:&pron:pos",
+      "  її adj:f:v_oru:nv:&pron:pos",
+      "  її adj:f:v_mis:nv:&pron:pos",
+      "  її adj:n:v_naz:nv:&pron:pos",
+      "  її adj:n:v_rod:nv:&pron:pos",
+      "  її adj:n:v_dav:nv:&pron:pos",
+      "  її adj:n:v_zna:nv:&pron:pos",
+      "  її adj:n:v_oru:nv:&pron:pos",
+      "  її adj:n:v_mis:nv:&pron:pos",
+      "  її adj:p:v_naz:nv:&pron:pos",
+      "  її adj:p:v_rod:nv:&pron:pos",
+      "  її adj:p:v_dav:nv:&pron:pos",
+      "  її adj:p:v_zna:ranim:nv:&pron:pos",
+      "  її adj:p:v_zna:rinanim:nv:&pron:pos",
+      "  її adj:p:v_oru:nv:&pron:pos",
+      "  її adj:p:v_mis:nv:&pron:pos"
+    ]
+  },
+  {
+    "term": "їйбо",
+    "forms": [
+      "їйбо intj:&insert:alt"
+    ]
+  },
+  {
+    "term": "їй-бо",
+    "forms": [
+      "їй-бо intj:&insert"
+    ]
+  },
+  {
+    "term": "Їй-Богу",
+    "forms": [
+      "Їй-Богу intj:&insert:bad"
+    ]
+  },
+  {
+    "term": "їй-Богу",
+    "forms": [
+      "їй-Богу intj:&insert:bad"
+    ]
+  },
+  {
+    "term": "їйбогу",
+    "forms": [
+      "їйбогу intj:&insert:alt"
+    ]
+  },
+  {
+    "term": "їй-богу",
+    "forms": [
+      "їй-богу intj:&insert"
+    ]
+  },
+  {
+    "term": "їй-пра",
+    "forms": [
+      "їй-пра intj:&insert"
+    ]
+  },
+  {
+    "term": "їй-право",
+    "forms": [
+      "їй-право intj:&insert"
+    ]
+  },
+  {
+    "term": "Їлдиз",
+    "forms": [
+      "Їлдиз noun:anim:m:v_naz:prop:lname",
+      "  Їлдиза noun:anim:m:v_rod:prop:lname",
+      "  Їлдизові noun:anim:m:v_dav:prop:lname",
+      "  Їлдизу noun:anim:m:v_dav:prop:lname",
+      "  Їлдиза noun:anim:m:v_zna:prop:lname",
+      "  Їлдизом noun:anim:m:v_oru:prop:lname",
+      "  Їлдизі noun:anim:m:v_mis:prop:lname",
+      "  Їлдизові noun:anim:m:v_mis:prop:lname",
+      "  Їлдизу noun:anim:m:v_mis:prop:lname"
+    ]
+  },
+  {
+    "term": "Їлдиз",
+    "forms": [
+      "Їлдиз noun:anim:f:v_naz:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_rod:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_dav:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_zna:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_oru:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_mis:nv:prop:lname",
+      "  Їлдиз noun:anim:f:v_kly:nv:prop:lname"
+    ]
+  },
+  {
+    "term": "їмость",
+    "forms": [
+      "їмость noun:anim:f:v_naz:arch",
+      "  їмості noun:anim:f:v_rod:arch",
+      "  їмости noun:anim:f:v_rod:ua_2019:arch",
+      "  їмості noun:anim:f:v_dav:arch",
+      "  їмость noun:anim:f:v_zna:arch",
+      "  їмостю noun:anim:f:v_oru:arch",
+      "  їмості noun:anim:f:v_mis:arch",
+      "  їмосте noun:anim:f:v_kly:arch",
+      "  їмості noun:anim:p:v_naz:arch",
+      "  їмостей noun:anim:p:v_rod:arch",
+      "  їмостям noun:anim:p:v_dav:arch",
+      "  їмостей noun:anim:p:v_zna:arch",
+      "  їмості noun:anim:p:v_zna:rare:arch    # з в/у",
+      "  їмостями noun:anim:p:v_oru:arch",
+      "  їмостях noun:anim:p:v_mis:arch",
+      "  їмості noun:anim:p:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їмосць",
+    "forms": [
+      "їмосць noun:anim:f:v_naz:arch",
+      "  їмосці noun:anim:f:v_rod:arch",
+      "  їмосці noun:anim:f:v_dav:arch",
+      "  їмосць noun:anim:f:v_zna:arch",
+      "  їмосцю noun:anim:f:v_oru:arch",
+      "  їмосці noun:anim:f:v_mis:arch",
+      "  їмосце noun:anim:f:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їнь",
+    "forms": [
+      "їнь noun:inanim:n:v_naz:nv",
+      "  їнь noun:inanim:n:v_rod:nv",
+      "  їнь noun:inanim:n:v_dav:nv",
+      "  їнь noun:inanim:n:v_zna:nv",
+      "  їнь noun:inanim:n:v_oru:nv",
+      "  їнь noun:inanim:n:v_mis:nv",
+      "  їнь noun:inanim:n:v_kly:nv"
+    ]
+  },
+  {
+    "term": "Їньчуань",
+    "forms": [
+      "Їньчуань noun:inanim:m:v_naz:prop:geo",
+      "  Їньчуаня noun:inanim:m:v_rod:prop:geo",
+      "  Їньчуаню noun:inanim:m:v_rod:prop:geo:ua_2019",
+      "  Їньчуаневі noun:inanim:m:v_dav:prop:geo",
+      "  Їньчуаню noun:inanim:m:v_dav:prop:geo",
+      "  Їньчуань noun:inanim:m:v_zna:prop:geo",
+      "  Їньчуанем noun:inanim:m:v_oru:prop:geo",
+      "  Їньчуаневі noun:inanim:m:v_mis:prop:geo",
+      "  Їньчуані noun:inanim:m:v_mis:prop:geo",
+      "  Їньчуаню noun:inanim:m:v_mis:prop:geo",
+      "  Їньчуаню noun:inanim:m:v_kly:prop:geo"
+    ]
+  },
+  {
+    "term": "Їречек",
+    "forms": [
+      "Їречек noun:anim:m:v_naz:prop:lname",
+      "  Їречека noun:anim:m:v_rod:prop:lname",
+      "  Їречекові noun:anim:m:v_dav:prop:lname",
+      "  Їречеку noun:anim:m:v_dav:prop:lname",
+      "  Їречека noun:anim:m:v_zna:prop:lname",
+      "  Їречеком noun:anim:m:v_oru:prop:lname",
+      "  Їречекові noun:anim:m:v_mis:prop:lname",
+      "  Їречеку noun:anim:m:v_mis:prop:lname",
+      "  Їречеку noun:anim:m:v_kly:prop:lname"
+    ]
+  },
+  {
+    "term": "Їржі",
+    "forms": [
+      "Їржі noun:anim:m:v_naz:nv:prop:fname",
+      "  Їржі noun:anim:m:v_rod:nv:prop:fname",
+      "  Їржі noun:anim:m:v_dav:nv:prop:fname",
+      "  Їржі noun:anim:m:v_zna:nv:prop:fname",
+      "  Їржі noun:anim:m:v_oru:nv:prop:fname",
+      "  Їржі noun:anim:m:v_mis:nv:prop:fname",
+      "  Їржі noun:anim:m:v_kly:nv:prop:fname"
+    ]
+  },
+  {
+    "term": "їство",
+    "forms": [
+      "їство noun:inanim:n:v_naz:arch",
+      "  їства noun:inanim:n:v_rod:arch",
+      "  їству noun:inanim:n:v_dav:arch",
+      "  їство noun:inanim:n:v_zna:arch",
+      "  їством noun:inanim:n:v_oru:arch",
+      "  їстві noun:inanim:n:v_mis:arch",
+      "  їству noun:inanim:n:v_mis:arch",
+      "  їство noun:inanim:n:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їсти",
+    "forms": [
+      "їсти verb:imperf:inf    # rv_zna:rv_oru",
+      "  їж verb:imperf:impr:s:2",
+      "  їжмо verb:imperf:impr:p:1",
+      "  їжте verb:imperf:impr:p:2",
+      "  їм verb:imperf:pres:s:1",
+      "  їси verb:imperf:pres:s:2",
+      "  їсиш verb:imperf:pres:s:2:subst",
+      "  їсть verb:imperf:pres:s:3",
+      "  їмо verb:imperf:pres:p:1",
+      "  їсте verb:imperf:pres:p:2",
+      "  їдять verb:imperf:pres:p:3",
+      "  їстиму verb:imperf:futr:s:1",
+      "  їстимеш verb:imperf:futr:s:2",
+      "  їстиме verb:imperf:futr:s:3",
+      "  їстимем verb:imperf:futr:p:1",
+      "  їстимемо verb:imperf:futr:p:1",
+      "  їстимете verb:imperf:futr:p:2",
+      "  їстимуть verb:imperf:futr:p:3",
+      "  їв verb:imperf:past:m",
+      "  їла verb:imperf:past:f",
+      "  їло verb:imperf:past:n",
+      "  їли verb:imperf:past:p"
+    ]
+  },
+  {
+    "term": "їстивний",
+    "forms": [
+      "їстивний adj:m:v_naz:bad",
+      "  їстивного adj:m:v_rod:bad",
+      "  їстивному adj:m:v_dav:bad",
+      "  їстивного adj:m:v_zna:ranim:bad",
+      "  їстивний adj:m:v_zna:rinanim:bad",
+      "  їстивним adj:m:v_oru:bad",
+      "  їстивнім adj:m:v_mis:bad",
+      "  їстивному adj:m:v_mis:bad",
+      "  їстивний adj:m:v_kly:bad",
+      "  їстивна adj:f:v_naz:bad",
+      "  їстивної adj:f:v_rod:bad",
+      "  їстивній adj:f:v_dav:bad",
+      "  їстивну adj:f:v_zna:bad",
+      "  їстивною adj:f:v_oru:bad",
+      "  їстивній adj:f:v_mis:bad",
+      "  їстивна adj:f:v_kly:bad",
+      "  їстивне adj:n:v_naz:bad",
+      "  їстивного adj:n:v_rod:bad",
+      "  їстивному adj:n:v_dav:bad",
+      "  їстивне adj:n:v_zna:bad",
+      "  їстивним adj:n:v_oru:bad",
+      "  їстивнім adj:n:v_mis:bad",
+      "  їстивному adj:n:v_mis:bad",
+      "  їстивне adj:n:v_kly:bad",
+      "  їстивні adj:p:v_naz:bad",
+      "  їстивних adj:p:v_rod:bad",
+      "  їстивним adj:p:v_dav:bad",
+      "  їстивних adj:p:v_zna:ranim:bad",
+      "  їстивні adj:p:v_zna:rinanim:bad",
+      "  їстивними adj:p:v_oru:bad",
+      "  їстивних adj:p:v_mis:bad",
+      "  їстивні adj:p:v_kly:bad"
+    ]
+  },
+  {
+    "term": "їстися",
+    "forms": [
+      "їстися verb:rev:imperf:inf",
+      "  їстись verb:rev:imperf:inf",
+      "  їсться verb:rev:imperf:pres:s:3",
+      "  їстиметься verb:rev:imperf:futr:s:3",
+      "  їлось verb:rev:imperf:past:n",
+      "  їлося verb:rev:imperf:past:n"
+    ]
+  },
+  {
+    "term": "їстівець",
+    "forms": [
+      "їстівець noun:inanim:m:v_naz:arch",
+      "  їстівця noun:inanim:m:v_rod:arch",
+      "  їстівцеві noun:inanim:m:v_dav:arch",
+      "  їстівцю noun:inanim:m:v_dav:arch",
+      "  їстівець noun:inanim:m:v_zna:arch",
+      "  їстівцем noun:inanim:m:v_oru:arch",
+      "  їстівцеві noun:inanim:m:v_mis:arch",
+      "  їстівці noun:inanim:m:v_mis:arch",
+      "  їстівцю noun:inanim:m:v_mis:arch",
+      "  їстівцю noun:inanim:m:v_kly:arch"
+    ]
+  },
+  {
+    "term": "їстівне",
+    "forms": [
+      "їстівне noun:inanim:n:v_naz",
+      "  їстівного noun:inanim:n:v_rod",
+      "  їстівному noun:inanim:n:v_dav",
+      "  їстівне noun:inanim:n:v_zna",
+      "  їстівним noun:inanim:n:v_oru",
+      "  їстівнім noun:inanim:n:v_mis",
+      "  їстівному noun:inanim:n:v_mis",
+      "  їстівне noun:inanim:n:v_kly"
+    ]
+  },
+  {
+    "term": "їстівний",
+    "forms": [
+      "їстівний adj:m:v_naz:compb",
+      "  їстівного adj:m:v_rod:compb",
+      "  їстівному adj:m:v_dav:compb",
+      "  їстівного adj:m:v_zna:ranim:compb",
+      "  їстівний adj:m:v_zna:rinanim:compb",
+      "  їстівним adj:m:v_oru:compb",
+      "  їстівнім adj:m:v_mis:compb",
+      "  їстівному adj:m:v_mis:compb",
+      "  їстівний adj:m:v_kly:compb",
+      "  їстівна adj:f:v_naz:compb",
+      "  їстівної adj:f:v_rod:compb",
+      "  їстівній adj:f:v_dav:compb",
+      "  їстівну adj:f:v_zna:compb",
+      "  їстівною adj:f:v_oru:compb",
+      "  їстівній adj:f:v_mis:compb",
+      "  їстівна adj:f:v_kly:compb",
+      "  їстівне adj:n:v_naz:compb",
+      "  їстівного adj:n:v_rod:compb",
+      "  їстівному adj:n:v_dav:compb",
+      "  їстівне adj:n:v_zna:compb",
+      "  їстівним adj:n:v_oru:compb",
+      "  їстівнім adj:n:v_mis:compb",
+      "  їстівному adj:n:v_mis:compb",
+      "  їстівне adj:n:v_kly:compb",
+      "  їстівні adj:p:v_naz:compb",
+      "  їстівних adj:p:v_rod:compb",
+      "  їстівним adj:p:v_dav:compb",
+      "  їстівних adj:p:v_zna:ranim:compb",
+      "  їстівні adj:p:v_zna:rinanim:compb",
+      "  їстівними adj:p:v_oru:compb",
+      "  їстівних adj:p:v_mis:compb",
+      "  їстівні adj:p:v_kly:compb"
+    ]
+  },
+  {
+    "term": "їстівність",
+    "forms": [
+      "їстівність noun:inanim:f:v_naz",
+      "  їстівності noun:inanim:f:v_rod",
+      "  їстівности noun:inanim:f:v_rod:ua_2019",
+      "  їстівності noun:inanim:f:v_dav",
+      "  їстівність noun:inanim:f:v_zna",
+      "  їстівністю noun:inanim:f:v_oru",
+      "  їстівності noun:inanim:f:v_mis",
+      "  їстівносте noun:inanim:f:v_kly"
+    ]
+  },
+  {
+    "term": "їстівніший",
+    "forms": [
+      "їстівніший adj:m:v_naz:compc",
+      "  їстівнішого adj:m:v_rod:compc",
+      "  їстівнішому adj:m:v_dav:compc",
+      "  їстівнішого adj:m:v_zna:ranim:compc",
+      "  їстівніший adj:m:v_zna:rinanim:compc",
+      "  їстівнішим adj:m:v_oru:compc",
+      "  їстівнішім adj:m:v_mis:compc",
+      "  їстівнішому adj:m:v_mis:compc",
+      "  їстівніший adj:m:v_kly:compc",
+      "  їстівніша adj:f:v_naz:compc",
+      "  їстівнішої adj:f:v_rod:compc",
+      "  їстівнішій adj:f:v_dav:compc",
+      "  їстівнішу adj:f:v_zna:compc",
+      "  їстівнішою adj:f:v_oru:compc",
+      "  їстівнішій adj:f:v_mis:compc",
+      "  їстівніша adj:f:v_kly:compc",
+      "  їстівніше adj:n:v_naz:compc",
+      "  їстівнішого adj:n:v_rod:compc",
+      "  їстівнішому adj:n:v_dav:compc",
+      "  їстівніше adj:n:v_zna:compc",
+      "  їстівнішим adj:n:v_oru:compc",
+      "  їстівнішім adj:n:v_mis:compc",
+      "  їстівнішому adj:n:v_mis:compc",
+      "  їстівніше adj:n:v_kly:compc",
+      "  їстівніші adj:p:v_naz:compc",
+      "  їстівніших adj:p:v_rod:compc",
+      "  їстівнішим adj:p:v_dav:compc",
+      "  їстівніших adj:p:v_zna:ranim:compc",
+      "  їстівніші adj:p:v_zna:rinanim:compc",
+      "  їстівнішими adj:p:v_oru:compc",
+      "  їстівніших adj:p:v_mis:compc",
+      "  їстівніші adj:p:v_kly:compc"
+    ]
+  },
+  {
+    "term": "їстки",
+    "forms": [
+      "їстки verb:imperf:inf:dimin"
+    ]
+  },
+  {
+    "term": "їстовний",
+    "forms": [
+      "їстовний adj:m:v_naz",
+      "  їстовного adj:m:v_rod",
+      "  їстовному adj:m:v_dav",
+      "  їстовного adj:m:v_zna:ranim",
+      "  їстовний adj:m:v_zna:rinanim",
+      "  їстовним adj:m:v_oru",
+      "  їстовнім adj:m:v_mis",
+      "  їстовному adj:m:v_mis",
+      "  їстовний adj:m:v_kly",
+      "  їстовна adj:f:v_naz",
+      "  їстовної adj:f:v_rod",
+      "  їстовній adj:f:v_dav",
+      "  їстовну adj:f:v_zna",
+      "  їстовною adj:f:v_oru",
+      "  їстовній adj:f:v_mis",
+      "  їстовна adj:f:v_kly",
+      "  їстовне adj:n:v_naz",
+      "  їстовного adj:n:v_rod",
+      "  їстовному adj:n:v_dav",
+      "  їстовне adj:n:v_zna",
+      "  їстовним adj:n:v_oru",
+      "  їстовнім adj:n:v_mis",
+      "  їстовному adj:n:v_mis",
+      "  їстовне adj:n:v_kly",
+      "  їстовні adj:p:v_naz",
+      "  їстовних adj:p:v_rod",
+      "  їстовним adj:p:v_dav",
+      "  їстовних adj:p:v_zna:ranim",
+      "  їстовні adj:p:v_zna:rinanim",
+      "  їстовними adj:p:v_oru",
+      "  їстовних adj:p:v_mis",
+      "  їстовні adj:p:v_kly"
+    ]
+  },
+  {
+    "term": "їстоньки",
+    "forms": [
+      "їстоньки verb:imperf:inf:dimin"
+    ]
+  },
+  {
+    "term": "їсточки",
+    "forms": [
+      "їсточки verb:imperf:inf:dimin"
+    ]
+  },
+  {
+    "term": "їх",
+    "forms": [
+      "їх adj:m:v_naz:nv:&pron:pos:bad",
+      "  їх adj:m:v_rod:nv:&pron:pos:bad",
+      "  їх adj:m:v_dav:nv:&pron:pos:bad",
+      "  їх adj:m:v_zna:ranim:nv:&pron:pos:bad",
+      "  їх adj:m:v_zna:rinanim:nv:&pron:pos:bad",
+      "  їх adj:m:v_oru:nv:&pron:pos:bad",
+      "  їх adj:m:v_mis:nv:&pron:pos:bad",
+      "  їх adj:f:v_naz:nv:&pron:pos:bad",
+      "  їх adj:f:v_rod:nv:&pron:pos:bad",
+      "  їх adj:f:v_dav:nv:&pron:pos:bad",
+      "  їх adj:f:v_zna:nv:&pron:pos:bad",
+      "  їх adj:f:v_oru:nv:&pron:pos:bad",
+      "  їх adj:f:v_mis:nv:&pron:pos:bad",
+      "  їх adj:n:v_naz:nv:&pron:pos:bad",
+      "  їх adj:n:v_rod:nv:&pron:pos:bad",
+      "  їх adj:n:v_dav:nv:&pron:pos:bad",
+      "  їх adj:n:v_zna:nv:&pron:pos:bad",
+      "  їх adj:n:v_oru:nv:&pron:pos:bad",
+      "  їх adj:n:v_mis:nv:&pron:pos:bad",
+      "  їх adj:p:v_naz:nv:&pron:pos:bad",
+      "  їх adj:p:v_rod:nv:&pron:pos:bad",
+      "  їх adj:p:v_dav:nv:&pron:pos:bad",
+      "  їх adj:p:v_zna:ranim:nv:&pron:pos:bad",
+      "  їх adj:p:v_zna:rinanim:nv:&pron:pos:bad",
+      "  їх adj:p:v_oru:nv:&pron:pos:bad",
+      "  їх adj:p:v_mis:nv:&pron:pos:bad"
+    ]
+  },
+  {
+    "term": "їхавши",
+    "forms": [
+      "їхавши advp:imperf"
+    ]
+  },
+  {
+    "term": "їхати",
+    "forms": [
+      "їхати verb:imperf:inf    # rv_inf:rv_oru",
+      "  їхать verb:imperf:inf:short",
+      "  їдь verb:imperf:impr:s:2",
+      "  їдьмо verb:imperf:impr:p:1",
+      "  їдьте verb:imperf:impr:p:2",
+      "  їду verb:imperf:pres:s:1",
+      "  їдеш verb:imperf:pres:s:2",
+      "  їде verb:imperf:pres:s:3",
+      "  їдемо verb:imperf:pres:p:1",
+      "  їдем verb:imperf:pres:p:1:subst",
+      "  їдете verb:imperf:pres:p:2",
+      "  їдуть verb:imperf:pres:p:3",
+      "  їхатиму verb:imperf:futr:s:1",
+      "  їхатимеш verb:imperf:futr:s:2",
+      "  їхатиме verb:imperf:futr:s:3",
+      "  їхатимем verb:imperf:futr:p:1",
+      "  їхатимемо verb:imperf:futr:p:1",
+      "  їхатимете verb:imperf:futr:p:2",
+      "  їхатимуть verb:imperf:futr:p:3",
+      "  їхав verb:imperf:past:m",
+      "  їхала verb:imperf:past:f",
+      "  їхало verb:imperf:past:n",
+      "  їхали verb:imperf:past:p"
+    ]
+  },
+  {
+    "term": "їхатися",
+    "forms": [
+      "їхатися verb:rev:imperf:inf",
+      "  їхатись verb:rev:imperf:inf",
+      "  їхаться verb:rev:imperf:inf:short",
+      "  їдеться verb:rev:imperf:pres:s:3",
+      "  їхатиметься verb:rev:imperf:futr:s:3",
+      "  їхалось verb:rev:imperf:past:n",
+      "  їхалося verb:rev:imperf:past:n"
+    ]
+  },
+  {
+    "term": "їхній",
+    "forms": [
+      "їхній adj:m:v_naz:&pron:pos",
+      "  їхнього adj:m:v_rod:&pron:pos",
+      "  їхньому adj:m:v_dav:&pron:pos",
+      "  їхнього adj:m:v_zna:ranim:&pron:pos",
+      "  їхній adj:m:v_zna:rinanim:&pron:pos",
+      "  їхнім adj:m:v_oru:&pron:pos",
+      "  їхнім adj:m:v_mis:&pron:pos",
+      "  їхньому adj:m:v_mis:&pron:pos",
+      "  їхня adj:f:v_naz:&pron:pos",
+      "  їхняя adj:f:v_naz:&pron:pos:long",
+      "  їхньої adj:f:v_rod:&pron:pos",
+      "  їхній adj:f:v_dav:&pron:pos",
+      "  їхню adj:f:v_zna:&pron:pos",
+      "  їхнюю adj:f:v_zna:&pron:pos:long",
+      "  їхньою adj:f:v_oru:&pron:pos",
+      "  їхній adj:f:v_mis:&pron:pos",
+      "  їхнє adj:n:v_naz:&pron:pos",
+      "  їхнєє adj:n:v_naz:&pron:pos:long",
+      "  їхнього adj:n:v_rod:&pron:pos",
+      "  їхньому adj:n:v_dav:&pron:pos",
+      "  їхнє adj:n:v_zna:&pron:pos",
+      "  їхнєє adj:n:v_zna:&pron:pos:long",
+      "  їхнім adj:n:v_oru:&pron:pos",
+      "  їхнім adj:n:v_mis:&pron:pos",
+      "  їхньому adj:n:v_mis:&pron:pos",
+      "  їхні adj:p:v_naz:&pron:pos",
+      "  їхнії adj:p:v_naz:&pron:pos:long",
+      "  їхніх adj:p:v_rod:&pron:pos",
+      "  їхнім adj:p:v_dav:&pron:pos",
+      "  їхніх adj:p:v_zna:ranim:&pron:pos",
+      "  їхні adj:p:v_zna:rinanim:&pron:pos",
+      "  їхнії adj:p:v_zna:rinanim:&pron:pos:long",
+      "  їхніми adj:p:v_oru:&pron:pos",
+      "  їхніх adj:p:v_mis:&pron:pos"
+    ]
+  },
+  {
+    "term": "Їчин",
+    "forms": [
+      "Їчин noun:inanim:m:v_naz:prop:geo",
+      "  Їчина noun:inanim:m:v_rod:prop:geo",
+      "  Їчинові noun:inanim:m:v_dav:prop:geo",
+      "  Їчину noun:inanim:m:v_dav:prop:geo",
+      "  Їчин noun:inanim:m:v_zna:prop:geo",
+      "  Їчином noun:inanim:m:v_oru:prop:geo",
+      "  Їчині noun:inanim:m:v_mis:prop:geo",
+      "  Їчинові noun:inanim:m:v_mis:prop:geo",
+      "  Їчину noun:inanim:m:v_mis:prop:geo",
+      "  Їчине noun:inanim:m:v_kly:prop:geo"
+    ]
+  }
+]

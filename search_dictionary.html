@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Пошук по Словнику</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f0f2f5;
+        color: #333;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .container {
+        background-color: #fff;
+        padding: 20px 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        width: 90%;
+        max-width: 800px;
+        box-sizing: border-box;
+      }
+
+      h1 {
+        color: #0056b3; /* Темно-синій */
+        text-align: center;
+        margin-bottom: 25px;
+        font-size: 2em;
+      }
+
+      .search-controls {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 25px;
+        align-items: center;
+      }
+
+      #searchInput {
+        flex-grow: 1;
+        padding: 12px 15px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 16px;
+        outline: none;
+        transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+      }
+
+      #searchInput:focus {
+        border-color: #007bff; /* Яскраво-синій */
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+      }
+
+      #searchButton {
+        padding: 12px 20px;
+        background-color: #007bff; /* Яскраво-синій */
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.2s ease-in-out;
+      }
+
+      #searchButton:hover {
+        background-color: #0056b3; /* Темно-синій */
+      }
+
+      #searchType {
+        padding: 12px 10px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 16px;
+        background-color: #fff;
+      }
+
+      #statusMessage {
+        text-align: center;
+        margin-bottom: 20px;
+        font-style: italic;
+        color: #555;
+      }
+
+      .results-container {
+        margin-top: 20px;
+        border-top: 1px solid #eee;
+        padding-top: 20px;
+      }
+
+      .entry {
+        background-color: #f9f9f9;
+        border: 1px solid #e0e0e0;
+        border-radius: 6px;
+        padding: 15px;
+        margin-bottom: 15px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+      }
+
+      .entry-term {
+        font-weight: bold;
+        font-size: 1.3em;
+        color: #2c3e50; /* Темно-сіро-синій */
+        margin-bottom: 8px;
+      }
+
+      .entry-forms {
+        margin-left: 0; /* Змінено з 20px */
+        padding-left: 0; /* Змінено з 20px */
+        list-style-type: none; /* Забираємо маркери списку */
+      }
+
+      .entry-forms li {
+        font-family: "Courier New", Courier, monospace; /* Моноширинний шрифт для форм */
+        font-size: 0.95em;
+        color: #444;
+        padding: 3px 0;
+        white-space: pre-wrap; /* Збереження відступів та переносів */
+        line-height: 1.4;
+      }
+
+      /* Для мобільних пристроїв */
+      @media (max-width: 600px) {
+        .search-controls {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        #searchType {
+          width: 100%;
+        }
+        h1 {
+          font-size: 1.8em;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Пошук по Словнику</h1>
+
+      <div class="search-controls">
+        <input type="text" id="searchInput" placeholder="Введіть слово..." />
+        <select id="searchType">
+          <option value="startsWith">Починається з</option>
+          <option value="exact">Точний збіг</option>
+          <option value="contains">Містить (у терміні)</option>
+          <option value="containsInForms">Містить (у формах)</option>
+        </select>
+        <button id="searchButton">Знайти</button>
+      </div>
+
+      <div id="statusMessage">Введіть слово для пошуку.</div>
+      <div id="resultsContainer" class="results-container"></div>
+    </div>
+
+    <script>
+      const searchInput = document.getElementById("searchInput");
+      const searchButton = document.getElementById("searchButton");
+      const searchTypeSelect = document.getElementById("searchType");
+      const resultsContainer = document.getElementById("resultsContainer");
+      const statusMessage = document.getElementById("statusMessage");
+
+      // Мапа для українських літер та відповідних файлів
+      // Ви можете розширити цей список, якщо потрібно
+      const ukrainianAlphabetFiles = {
+        а: "А.json",
+        б: "Б.json",
+        в: "В.json",
+        г: "Г.json",
+        д: "Д.json",
+        е: "Е.json",
+        є: "Є.json",
+        ж: "Ж.json",
+        з: "З.json",
+        и: "И.json",
+        і: "І.json",
+        ї: "Ї.json",
+        й: "Й.json",
+        к: "К.json",
+        л: "Л.json",
+        м: "М.json",
+        н: "Н.json",
+        о: "О.json",
+        п: "П.json",
+        р: "Р.json",
+        с: "С.json",
+        т: "Т.json",
+        у: "У.json",
+        ф: "Ф.json",
+        х: "Х.json",
+        ц: "Ц.json",
+        ч: "Ч.json",
+        ш: "Ш.json",
+        щ: "Щ.json",
+        ь: "Ь.json",
+        ю: "Ю.json",
+        я: "Я.json",
+        // Літера "Ґ" зазвичай потрапляє до OTHER.txt, якщо її не було в LETTERS у скрипті split_vesum.py
+        // Якщо у вас є окремий Ґ.json, додайте його сюди: 'ґ': 'Ґ.json',
+      };
+      const otherFile = "OTHER.json"; // Файл для літери "Ґ", цифр, латиниці та інших символів
+      const dataPath = "./dictionary_data/"; // Шлях до папки з JSON файлами
+
+      let currentDataCache = null; // Кеш для завантажених даних поточного файлу
+      let currentFileNameCache = ""; // Ім'я файлу, дані якого закешовані
+
+      searchButton.addEventListener("click", performSearch);
+      searchInput.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+          performSearch();
+        }
+      });
+
+      async function performSearch() {
+        const searchTermRaw = searchInput.value.trim();
+        if (!searchTermRaw) {
+          statusMessage.textContent = "Будь ласка, введіть слово для пошуку.";
+          resultsContainer.innerHTML = "";
+          return;
+        }
+
+        const searchTerm = searchTermRaw.toLowerCase();
+        statusMessage.textContent = "Пошук...";
+        resultsContainer.innerHTML = "";
+        currentDataCache = null; // Скидаємо кеш при новому пошуку, якщо логіка файлу зміниться
+
+        let fileNameToFetch;
+        const firstChar = searchTerm.charAt(0);
+
+        if (ukrainianAlphabetFiles[firstChar]) {
+          fileNameToFetch = ukrainianAlphabetFiles[firstChar];
+        } else {
+          // Для 'ґ' та інших символів, що не входять до основного алфавіту
+          fileNameToFetch = otherFile;
+        }
+
+        console.log(`Запит на файл: ${dataPath}${fileNameToFetch}`);
+
+        try {
+          // Перевіряємо, чи дані для цього файлу вже в кеші
+          if (currentFileNameCache === fileNameToFetch && currentDataCache) {
+            console.log("Використання даних з кешу.");
+            filterAndDisplayResults(currentDataCache, searchTermRaw);
+          } else {
+            const response = await fetch(dataPath + fileNameToFetch);
+            if (!response.ok) {
+              throw new Error(
+                `Не вдалося завантажити файл: ${fileNameToFetch} (статус: ${response.status})`
+              );
+            }
+            const data = await response.json();
+            currentDataCache = data; // Кешуємо завантажені дані
+            currentFileNameCache = fileNameToFetch; // Зберігаємо ім'я закешованого файлу
+            console.log(`Файл ${fileNameToFetch} успішно завантажено.`);
+            filterAndDisplayResults(data, searchTermRaw);
+          }
+        } catch (error) {
+          console.error("Помилка:", error);
+          statusMessage.textContent = `Помилка: ${error.message}. Перевірте, чи файл '${fileNameToFetch}' існує у папці '${dataPath}'.`;
+          resultsContainer.innerHTML = "";
+        }
+      }
+
+      function filterAndDisplayResults(data, originalSearchTerm) {
+        const searchType = searchTypeSelect.value;
+        const searchTermLower = originalSearchTerm.toLowerCase();
+        let foundEntries = [];
+
+        if (!Array.isArray(data)) {
+          console.error("Завантажені дані не є масивом:", data);
+          statusMessage.textContent =
+            "Помилка: Неправильний формат даних у файлі.";
+          return;
+        }
+
+        foundEntries = data.filter((entry) => {
+          if (!entry || typeof entry.term !== "string") return false; // Перевірка на валідність запису
+          const termLower = entry.term.toLowerCase();
+
+          switch (searchType) {
+            case "startsWith":
+              return termLower.startsWith(searchTermLower);
+            case "exact":
+              return termLower === searchTermLower;
+            case "contains":
+              return termLower.includes(searchTermLower);
+            case "containsInForms":
+              if (termLower.includes(searchTermLower)) return true;
+              if (entry.forms && Array.isArray(entry.forms)) {
+                return entry.forms.some(
+                  (form) =>
+                    typeof form === "string" &&
+                    form.toLowerCase().includes(searchTermLower)
+                );
+              }
+              return false;
+            default:
+              return false;
+          }
+        });
+
+        displayResults(foundEntries, originalSearchTerm);
+      }
+
+      function displayResults(entries, searchTerm) {
+        if (entries.length === 0) {
+          statusMessage.textContent = `За запитом "${searchTerm}" нічого не знайдено.`;
+          return;
+        }
+
+        statusMessage.textContent = `Знайдено ${entries.length} статей за запитом "${searchTerm}":`;
+
+        entries.forEach((entry) => {
+          const entryDiv = document.createElement("div");
+          entryDiv.className = "entry";
+
+          const termP = document.createElement("p");
+          termP.className = "entry-term";
+          termP.textContent = entry.term;
+          entryDiv.appendChild(termP);
+
+          if (entry.forms && Array.isArray(entry.forms)) {
+            const formsUl = document.createElement("ul");
+            formsUl.className = "entry-forms";
+            entry.forms.forEach((formText) => {
+              const li = document.createElement("li");
+              // Замінюємо множинні пробіли на нерозривні для збереження форматування
+              // та екрануємо HTML для безпеки (хоча тут дані з JSON)
+              li.innerHTML = formText.replace(/  /g, "&nbsp;&nbsp;");
+              formsUl.appendChild(li);
+            });
+            entryDiv.appendChild(formsUl);
+          }
+          resultsContainer.appendChild(entryDiv);
+        });
+      }
+    </script>
+  </body>
+</html>
