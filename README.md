@@ -1,2 +1,2 @@
 # Title
-https://artur-shvets.github.io/sd/
+https://artur-shvets.github.io/search_dictionary/
